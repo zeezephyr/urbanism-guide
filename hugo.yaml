@@ -1,0 +1,39 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Urbanism.guide'
+
+module:
+  proxy: direct
+  hugoVersion:
+    extended: true
+    min: v0.84.2
+  imports:
+    - path: github.com/google/docsy
+      disable: false
+    - path: github.com/google/docsy/dependencies
+      disable: false
+
+contentDir: "content/en"
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: false
+
+enableRobotsTXT: true
+
+enableEmoji: true
+
+# Breadcrumbs off for now because they allow navigation to pages
+# that don't have any text on them
+params:
+  offlineSearch: true
+  ui:
+    breadcrumb_disable: true
+    taxonomy_breadcrumb_disable: true
+    sidebar_menu_compact: true
+    ul_show: 1
+    sidebar_menu_foldable: true
+  links:
+    developer:
+    - name: GitHub
+      url: https://github.com/zeezephyr/urbanism-guide
+      icon: fa-brands fa-github github-link
+      desc: Contribute to this website. We need your knowledge!

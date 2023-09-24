@@ -1,0 +1,54 @@
+// Copyright © 2023 Elle Kasai
+
+// Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+// The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+// THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+@import './emoji-map';
+
+$custom-map: (
+  "austin-flag": "/media/austin_flag_wikipedia_public_domain.png"
+);
+
+.icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  margin: 0 0.5em 0 .1em;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em;
+}
+
+$size-map: (
+  "lg": 1.33,
+  "2x": 2,
+  "3x": 3,
+  "4x": 4,
+  "5x": 5
+);
+
+@each $name, $size in $size-map {
+  .icon-size-#{$name} {
+    height: 1em * $size;
+    width: 1em * $size;
+    margin: 0 .05em * $size 0 .1em * $size;
+    vertical-align: -0.1em * $size;
+    background-size: 1em * $size 1em * $size;
+  }
+}
+
+@each $name, $code in $emoji-map {
+  .twa-#{$name} {
+    background-image: url("https://twemoji.maxcdn.com/2/svg/#{$code}.svg");
+  }
+}
+
+@each $name, $code in $custom-map {
+  .#{$name} {
+    background-image: url("#{$code}");
+  }
+}

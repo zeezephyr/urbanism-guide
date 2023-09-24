@@ -1,0 +1,28 @@
+$primary: #893cc9;
+$secondary: #30ff86;
+
+$td-sidebar-bg-color: white;
+$border-color: white;
+
+// Might be a space to put navbar links on mobile, may want to keep.
+// @media (max-width: 991.98px) {
+//     .td-navbar .td-navbar-nav-scroll {
+//         height: 0;
+//     }
+// }
+
+//  Align icons and name
+.td-navbar .navbar-brand__name {
+    vertical-align: middle;
+}
+
+.td-navbar .navbar-logo {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+// Make a smaller footer
+.td-footer {
+    min-height: 2rem !important;
+    padding-top: 1rem !important;
+}
