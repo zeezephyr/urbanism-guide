@@ -4,12 +4,12 @@ $secondary: #30ff86;
 $td-sidebar-bg-color: white;
 $border-color: white;
 
-// Might be a space to put navbar links on mobile, may want to keep.
-// @media (max-width: 991.98px) {
-//     .td-navbar .td-navbar-nav-scroll {
-//         height: 0;
-//     }
-// }
+// Might be a space to put navbar links on mobile, may want to change in future.
+@media (max-width: 991.98px) {
+    .td-navbar .td-navbar-nav-scroll {
+      height: 0 !important;
+    }
+  }
 
 //  Align icons and name
 .td-navbar .navbar-brand__name {
