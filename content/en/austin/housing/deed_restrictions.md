@@ -1,6 +1,5 @@
 ---
 title: "Deed Restrictions"
-linkTitle: "Affordability Unlocked"
 icon: "icon twa-unlock"
 description: >
     Deed restrictions are agreements between large groups of homeowners that have historically been used for excluding people and homes from neighborhoods
