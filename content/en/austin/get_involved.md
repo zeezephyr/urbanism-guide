@@ -3,11 +3,8 @@ title: "Get Involved"
 icon: "icon twa-raised-fist"
 weight: 1
 description: >
-  Learn how the numerouse ways to get involved in urbanist causes. 
-  Determine what you care about, what you can contribute, who can help you, and how much time and effort you can dedicate.
+  There are numerous ways to get yourself more involved in supporting urbanist causes. The first steps of which are knowing who you are, what you care about, and getting informed.
 ---
-There are numerous ways to get yourself more involved in supporting urbanist causes. The first step of which is knowing who you are, what you care about, and getting informed.
-
 ## Who You Are
 
 Being informed about urbanist issues involves finding groups and sources of information that can help you find what to act on. Everyone cares about different aspects of urbanism be it housing, equity, public transit, bike lanes, safety, etc. Lean into this.
