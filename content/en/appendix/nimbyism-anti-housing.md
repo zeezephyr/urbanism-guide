@@ -6,4 +6,4 @@ description: >
 ---
 > The cruel irony of NIMBY pastoralism is that it trades real, living natural landscapes for the airy ghosts of a dead one
 >
-> - Parker
+> \-\- Parker
