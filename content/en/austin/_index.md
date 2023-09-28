@@ -15,5 +15,5 @@ In this section we will largely explain Austin's laws and regulations. Both the 
 - [Affordability Unlocked/VMU2](/austin/housing/afforability_unlocked_vmu2)
 - [Restrictive Zoning](/austin/housing/restrictive_zoning)
 - [Compatibility Restrictions](/austin/housing/compatibility_restrictions)
-- [TxDOT and CAMPO](/austin/transportation/txdot_and_campo)
+- [TxDOT and CAMPO](/austin/transportation/highways)
 - And more. Check out the side bar for the full list.
