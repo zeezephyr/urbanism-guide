@@ -12,6 +12,7 @@ The Texas Department of Transportation is the state's department that plans and 
 TxDOT road expansions include highways as well as many regular streets within cities and towns that they also own. This means that in some cases urbanist efforts to improve certain roads are frustrated by the state's desire to harm its people over petty grievances. Due to this fatal crashes on state owned roadways continue to rise, while on non-state roads fatalities have remained flat.
 
 ![Chart showing a significant increase in fatalities on State owned roads over time](/media/txdot_fatalities_increasing.png)
+[Source: Austin Vision Zero Update, May 25 2023](https://www.austintexas.gov/sites/default/files/files/ATD%20PIO/Vision%20Zero/Vision%20Zero%20Update%2005.25.23.pdf)
 
 ### TxDOT Funding
 
