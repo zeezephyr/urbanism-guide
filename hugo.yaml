@@ -17,7 +17,7 @@ contentDir: "content/en"
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: false
 
-enableRobotsTXT: true
+# enableRobotsTXT: true
 
 enableEmoji: true
 
