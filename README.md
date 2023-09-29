@@ -32,7 +32,7 @@ If you know something about an urbanist issue and want to contribute your knowle
 
 ## If you know how to use Github
 
-1. Do the same but make a PR and I'll forever be your friend :smile:
+1. Do the same but make a PR against the `dev` branch and I'll forever be your friend :smile:
 1. (Optional) [Install Docsy](https://www.docsy.dev/docs/get-started/) if you want to help improve visuals
 
 ## Powered By
