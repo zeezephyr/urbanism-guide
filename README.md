@@ -6,7 +6,7 @@ This guide is intended to be a way to get those mildly interested in any one or 
 
 Unfortunately most actionable urbanist information is buried deep within hard to access government websites, chat rooms, mailing lists, and other places where you kind of already need to be into urbanism to get into it.
 
-The goal is to use this website to eliminate that Catch-22 and educate with easily digestible, factual, and strongly opinionated material. Hopefully turning some of people into active contributors to urbanist causes.
+The goal is to use this website to eliminate that Catch-22 and educate with easily digestible, factual, and strongly informed material. Eventually turning some of our readers into active contributors to urbanist causes.
 
 ## Writing Style
 
