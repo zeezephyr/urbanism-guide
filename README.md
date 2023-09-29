@@ -13,9 +13,10 @@ The goal is to use this website to eliminate that Catch-22 and educate with easi
 The style we're going for is:
 
 - Educational and informational
+- Inspirational, not shying away from emotions
 - Clear and concise
 - Factual
-- Strong opinions, not neutral
+- Strong informed opinions, not neutral
 - A focus on equity and fairness
 
 ## Contributing
