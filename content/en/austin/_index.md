@@ -12,7 +12,7 @@ In this section we will largely explain Austin's laws and regulations. Both the 
 
 - [Vision Zero](/austin/transportation/vision_zero)
 - [Project Connect](/austin/transportation/project_connect)
-- [Affordability Unlocked/VMU2](/austin/housing/afforability_unlocked_vmu2)
+- [Affordable Housing](/austin/housing/affordable_housing)
 - [Restrictive Zoning](/austin/housing/restrictive_zoning)
 - [Compatibility Restrictions](/austin/housing/compatibility_restrictions)
 - [TxDOT and CAMPO](/austin/transportation/highways)
