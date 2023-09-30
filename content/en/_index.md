@@ -19,4 +19,4 @@ If this intrigues you then keep reading to understand what urbanism is and how y
 
 We are based in Austin, Texas and as such have a good deal of material specifically about urbanism in Austin and the USA. However we aim to provide plenty of great info here no matter where in the world that you are. So keep on reading!
 
-A good place to start is [What is Urbanism?](getting_started/what_is_urbanism.md)
+A good place to start is [What is Urbanism?](/getting_started/what_is_urbanism.md)
