@@ -7,7 +7,7 @@ Choosing to do some of your trips by bike is a great way to contribute to urbani
 
 Biking in Austin is becoming more and more accessible with over 230 miles already built. With every bike lane added, with every person out riding bikes, drivers and people in general become more familiar with, aware of, and supportive of biking as a form of commute.
 
-Biking is not just healthy but also offere many other benefits:
+Biking is not just healthy but also offers many other benefits:
 - It's much cheaper than driving. Even an e-bike uses just 5-10 cents of electricity per charge and a typical e-bike has a range of 30-60 miles.
 - It's significantly less strain on infrastructure. Bikes cause almost zero damage to roads. Larger, heavier vehicles [are responsible for road damage](https://en.m.wikipedia.org/wiki/Fourth_power_law).
 - Biking is generally a much more pleasant experience than driving. You feel a lot more present, more attached to the world around you, people wave and smile, and you simply move around at more human and lower stressed speeds.
@@ -16,7 +16,11 @@ Biking is not just healthy but also offere many other benefits:
 
 Biking in Austin is becoming more and more accessible with over 230 miles already built. With every bike lane we add we get more and more people out enjoying a simply more pleasant way of commuting.
 
-It's also important to note that not every commute is fit for biking and keeping your safety and comfort in mind is always the most important thing. Manual biking is most suitable to trips of 3 miles or less which fortunately makes up about half of all trips within Austin. With e-bikes this range is extended considerably.
+It's also important to note that not every commute is fit for biking and keeping your safety and comfort in mind is always the most important thing. Manual biking is most suitable to trips of 3 miles or less which **[make up over half of all trips](https://www.energy.gov/eere/vehicles/articles/fotw-1230-march-21-2022-more-half-all-daily-trips-were-less-three-miles-2021)**!
+
+{{% alert title="+1" color="info" %}}
+With e-bikes your possible biking range is extended considerably and 80% of trips are 10 miles or less!
+{{% /alert %}}
 
 _TODO: Find the source on the 3 mile stat._
 
