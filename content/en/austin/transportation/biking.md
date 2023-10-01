@@ -18,11 +18,9 @@ Biking in Austin is becoming more and more accessible with over 230 miles alread
 
 It's also important to note that not every commute is fit for biking and keeping your safety and comfort in mind is always the most important thing. Manual biking is most suitable to trips of 3 miles or less which **[make up over half of all trips](https://www.energy.gov/eere/vehicles/articles/fotw-1230-march-21-2022-more-half-all-daily-trips-were-less-three-miles-2021)**!
 
-{{% alert title="+1" color="info" %}}
+{{% alert title="More distance" color="primary" %}}
 With e-bikes your possible biking range is extended considerably and 80% of trips are 10 miles or less!
 {{% /alert %}}
-
-_TODO: Find the source on the 3 mile stat._
 
 So if you want to start biking check out the links below to find a bike, or start planning routes and finding things that are reasonable and comfortable for you to reach.
 
