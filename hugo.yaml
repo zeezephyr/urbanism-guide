@@ -21,6 +21,12 @@ enableRobotsTXT: true
 
 enableEmoji: true
 
+# Make docsy shortcodes work
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # Breadcrumbs off for now because they allow navigation to pages
 # that don't have any text on them
 params:
