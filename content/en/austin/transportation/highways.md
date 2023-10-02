@@ -24,9 +24,11 @@ In combination these propositions have lead to tens of billions of state tax dol
 
 TODO: Explain where this money was taken away from
 
-## Capital Metropolitan Transportation Authority (CAMPO)
+## Capital Area Metropolitan Planning Authority (CAMPO)
 
-The Capital Area Metropolitan Planning Organization is a 22-member board that makes transportation policy decisions. This board contains 4 members from Austin which means that Austin's overall voting and decision making power is significantly lower than its population. This leads to poor decision making that negatively impacts Austin because our needs are not adequately represented.
+The Capital Area Metropolitan Planning Organization is the metropolitan planning organization for Bastrop, Burnet, Caldwell, Hays, Travis, and Williamson Counties. MPOs are federally required throughout the country in areas with a population of 50,000 or more and are required to produce a 20+ year transportation plan, called a Regional Transportation Plan (RTP), and a four-year planning document called the Transportation Improvement Program (TIP).
+
+CAMPO is governed by a 21-member Transportation Policy Board, made up of 19 elected officials and a representative from TxDOT and one from Capital Metro. The Policy Board is the body that makes decisions on CAMPO policy. This board contains 4 members from Austin which means that Austin's overall voting and decision making power is significantly lower than its population. This leads to poor decision making that negatively impacts Austin because our needs are not adequately represented.
 
 ### CAMPO Funding
 
