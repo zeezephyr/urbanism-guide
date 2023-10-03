@@ -28,15 +28,12 @@ We do this in a variety of ways that vary from low effort to high effort. Start 
 - High
   - Event planning
   - Organizing
-  - TODO
 
 ## Getting Informed
 
-There are many places to get informed on Austin urbanism and find many things to do. A non-exhaustive list is below. If you know of something we missed please let us know here: TODO.
+There are many places to get informed on Austin urbanism and find many things to do. A non-exhaustive list is below. If you know of something we missed [please let us know here](https://github.com/zeezephyr/urbanism-guide/discussions/23#discussion-5695516).
 
 ### Organizations
-
-TODO: Update list
 
 | Name                    | Description (from org's website)                                                                                                                                                                                                                                                                                                           | Website                                                        | Chat / Join                                                            | Social Media                                                         | Dip your toes                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -48,8 +45,6 @@ TODO: Update list
 | Bike Story Night        | Celebrating the power of storytelling and cycling.                                                                                                                                                                                                                                                                                         | [bikestorynight.com](https://www.bikestorynight.com/)          | [Linktree](https://linktr.ee/BikeStoryNight)                           | [Instagram](https://www.instagram.com/bikestorynight/)               |                                                                                              |
 
 ### Newsletters
-
-TODO: Update list
 
 Almost all of the organizations listed above have newsletters so remember to check those out too. However there's also some great urbanist content in dedicated newsletter form.
 
