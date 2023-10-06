@@ -16,3 +16,7 @@ TOD / Transit Oriented Development:
 ETOD / Equitable TOD:
 
 ROW / [Right of way](https://en.m.wikipedia.org/wiki/Right-of-way_(transportation)): Refers to land that is owned by a department, city, or other entity that can be used for transportation.
+
+CoA: The City of Austin.
+
+MPO: Metropolitan Planning Organization
