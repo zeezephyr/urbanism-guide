@@ -27,6 +27,10 @@ markup:
     renderer:
       unsafe: true
 
+# Needed for purge-css
+build:
+  writeStats: true
+
 # Breadcrumbs off for now because they allow navigation to pages
 # that don't have any text on them
 params:
