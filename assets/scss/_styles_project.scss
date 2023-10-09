@@ -86,6 +86,6 @@ $size-map: (
 // Might be a space to put navbar links on mobile, may want to change in future.
 @media (max-width: 991.98px) {
   .td-navbar .td-navbar-nav-scroll {
-    height: 0 !important;
+    height: 0;
   }
 }

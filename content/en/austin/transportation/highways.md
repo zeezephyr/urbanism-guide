@@ -5,6 +5,10 @@ icon: "icon twa-car"
 TxDOT, CAMPO, and the TTC are the three organizations and political bodies that are responsible for our mess of deadly highways. TTC is a state-wide body of 5 political appointees that plans and authorizes 10 year transportation plans (aka UTPs) at a state level. These plans then get passed to TxDOT who must work with CAMPO to identify projects, funding, and finally approve plans that achieve the goals of the UTP.
 <!--more-->
 
+## Preface: The Cost of Highways and Roads
+
+The true cost of highways and roads is almost never discussed when it comes to budgeting within the US. The necessity of an ever larger amount of road and all their economic, social, and environmental costs are simply taken as-is. On the economic side of the equation roads cost the average househould $14,000 per year regardless of if they own a car or not. When factoring in car ownership the cost nearly doubles to [$26,000 per household per year on average for the total cost of using roads](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/). We need to ask the question of whether or not we should be paying such astronomical costs for the car economy when more affordable, cleaner, and safer alternatives exist.
+
 ## Texas Department of Transportation (TxDOT)
 
 The Texas Department of Transportation is the state's department that plans and implements roads for cars and trucks on ROWs that they own or have access to use. In principal a Department Of Transportation _should_ create transportation options for all modes of transportation. However in practice and in law they spend almost all of their funding on road expansions.
