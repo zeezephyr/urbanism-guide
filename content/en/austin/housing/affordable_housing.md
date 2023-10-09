@@ -2,7 +2,7 @@
 title: "Affordable Housing"
 icon: "icon twa-star-struck"
 description: >
-    Learn how Austin is dramatically increasing affordable housing for all of its citizens.
+    Learn how Austin is doing to make housing more affordable and what more can be done.
 ---
 
 Affordable housing is a term that has many meanings depending on who you're talking to and what you're talking about.
@@ -22,8 +22,9 @@ Within the city of Austin these initiatives have taken the form of:
 - Affordability Unlocked
 - VMU 1 & VMU 2
 
-TODO
-
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}
 
 ## Housing Affordability in General
 
@@ -40,4 +41,6 @@ are struggling to afford housing. Housing affordability across the US has droppe
 1. Deed restrictions
 1. "Valid Petition" laws
 
-TODO
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}

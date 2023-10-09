@@ -53,3 +53,16 @@ $size-map: (
     background-image: url("#{$code}");
   }
 }
+
+// Display pageinfo in line with text width
+.pageinfo {
+  max-width: 80%;
+  margin: 0;
+}
+
+@media (max-width: 991.98px) {
+  .pageinfo {
+    max-width: 100%;
+    margin: 0;
+  }
+}

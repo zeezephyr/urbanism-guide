@@ -38,4 +38,6 @@ Austin recently updated its AAA network plan to make cycling an integral part of
 
 The biggest and most popular mapping apps unfortunately don't always do the best job giving you the best biking routes. They're still very car-focused and as such tend to not consider the various side streets, short cuts, and slightly longer but safer routes that most bike riders prefer. Fortunately there are many apps available to help you plan your routes such as:
 
-TODO
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}

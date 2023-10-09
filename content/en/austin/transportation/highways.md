@@ -22,7 +22,10 @@ TxDOT road expansions include highways as well as many regular streets within ci
 
 In combination these propositions have lead to tens of billions of state tax dollars being directed towards maintaining and expanding highways and all the negativies that car dependent infrastructure brings to us and our cities.
 
-TODO: Explain where this money was taken away from
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+Perhaps you could help explain where this money was taken from/what else can be done with it?
+{{% /pageinfo %}}
 
 ## Capital Area Metropolitan Planning Authority (CAMPO)
 
@@ -38,7 +41,9 @@ There doesn't yet exist a movement in Austin to fix CAMPO so that it is fairly r
 
 ### CAMPO Funding
 
-TODO
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}
 
 ## Texas Transportation Commission (TTC)
 
