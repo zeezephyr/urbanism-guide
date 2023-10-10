@@ -29,10 +29,6 @@ TxDOT road expansions include highways as well as many regular streets within ci
 - [Congestion Mitigation and Air Quality (CMAQ) Improvement Program](https://www.fhwa.dot.gov/bipartisan-infrastructure-law/cmaq.cfm): This is a federal program which says when a state fails to meet their obligations under the Clean Air Act they can be awarded funding to improve their compliance. However this bill also allows up to 50% of funding to be redirected to other highway and transportation activities. The end result being that states are able to use funding intended for improving our air quality to instead construct additional highways and roads.
     > "A State may transfer up to 50% of CMAQ funds made available each fiscal year to any other apportionment of the State, including the National Highway Performance Program, Surface Transportation Block Grant Program, Highway Safety Improvement Program, National Highway Freight Program [..]"
 
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
-
 ## Capital Area Metropolitan Planning Authority (CAMPO)
 
 Per the CAMPO website:
@@ -41,7 +37,11 @@ Per the CAMPO website:
 >
 > CAMPO is governed by a 21-member Transportation Policy Board, made up of 19 elected officials and a representative from TxDOT and one from Capital Metro. The Policy Board is the body that makes decisions on CAMPO policy and decides how CAMPO funding is allocated.
 
+### CAMPO Representation
+
 Austin's 2022 population of 974,447 (2022; US Census Estimate) makes up 39% of the total population represented within CAMPO yet this 21 member board contains only 4 members from Austin which means that Austin's overall voting and decision making power is significantly lower than its population size. This leads to poor decision making that negatively impacts Austin because our needs are not adequately represented.
+
+Further reducing Ausin's influence and proper representation within CAMPO is the Transportation Policy Board Executive Committee. This 9 member board is the body that makes recommendations to the full TPB board about plans, projects, and issues. Not a single member of this committee is from Austin.
 
 There doesn't yet exist a movement in Austin to fix CAMPO so that it is fairly representative or so that Austin can have its own MPO. However similar efforts have been taken up in neighboring cities like the [Fair For Houston initiative](https://www.fairforhouston.com/). A similar initiative could be done in Austin.
 
@@ -60,3 +60,7 @@ In addition to CAMPO's lack of proper representation for Austin it also actively
 ## Texas Transportation Commission (TTC)
 
 The final piece to the puzzle of how transportation gets built in is the TTC. They are a small body of 5 political appointees that make 10 year plans for CAMPO and TxDOT to fund and implement.
+
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}
