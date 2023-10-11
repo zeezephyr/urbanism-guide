@@ -2,7 +2,7 @@
 title: "Affordable Housing"
 icon: "icon twa-star-struck"
 description: >
-    Learn how Austin is doing to make housing more affordable and what more can be done.
+    Learn what Austin is doing to make housing more affordable and what more can be done.
 ---
 
 Affordable housing is a term that has many meanings depending on who you're talking to and what you're talking about.
@@ -12,6 +12,10 @@ Most generally affordable housing can be broken down into two major categories:
 1. Housing affordability for you, and others in a general sense
 
 Both of these are entirely legitimate concerns and ways to think about housing, so let's get into them.
+
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}
 
 ## Housing Affordability as Defined by CoA
 
@@ -24,19 +28,13 @@ Within the city of Austin these initiatives have taken the form of:
 - VMU1/2??
 - SMART
 
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
+{{% alert title="Median Family Income" color="primary" %}}
+The income levels mentioned below are based on [Median Family Income (MFI)](https://www.austintexas.gov/sites/default/files/files/Housing_%26_Planning/MFI%20Chart%20Effective_2022.pdf). MFI is a measure of what the average family earns in the Austin-Round Rock area. The 100% MFI in 2022 was $88,250 for a family of 2.
+{{% /alert %}}
 
 ### Affordability Unlocked
 
 [Affordability unlocked](https://www.austintexas.gov/department/affordability-unlocked-development-bonus-program) is a program created by the City of Austin in 2019 ([original text](https://services.austintexas.gov/edims/document.cfm?id=319975), [AU guide](https://www.austintexas.gov/sites/default/files/files/Housing/AU_Applicant_Guide_FINAL_1019.pdf)) to address housing affordability without subsidizing the housing with taxes. The plan achieves this by allowing developers who apply for Affordability Unlocked to build housing that is up to 25-50% taller than the current zoning limitations. This program is most commonly used in tandem with Multi-family zoning and [VMU combining zoning districts](https://services.austintexas.gov/edims/document.cfm?id=383601) along transit corridors where residents would have close and convenient access to public transit.
-
-{{% alert title="Median Family Income" color="primary" %}}
-The income levels mentioned below are based on Median Family Income (MFI). MFI is a measure of what the average family earns in the Austin-Round Rock area. The MFI in 2022 was $88,250 for a family of 2.
-
-The full chart of [figures from 2022 is here](https://www.austintexas.gov/sites/default/files/files/Housing_%26_Planning/MFI%20Chart%20Effective_2022.pdf).
-{{% /alert %}}
 
 In practical terms this means that buildings using Affordability unlocked are able to build rentable and ownable housing for those living at or under 80% of the Median Famiy Income (MFI) of Austin's citizens. Affordability Unlocked is further divided into two types, aptly called Type 1, and Type 2.
 
@@ -48,12 +46,15 @@ As of 2023 over 3,000 units of housing have been built or are under construction
 
 ### Vertical Mixed Use Zoning
 
-[Vertical Mixed Use zoning](https://services.austintexas.gov/edims/document.cfm?id=383601) is a provision applied along major existing and future transit corridors with the goal of getting more of Austin's citizens close to transit. 
+[Vertical Mixed Use zoning](https://services.austintexas.gov/edims/document.cfm?id=383601) is a provision applied along major existing and future transit corridors with the goal of getting more of Austin's citizens close to transit.
 
 TODO: Is this even affordability?
 
 ### SMART
 
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}
 
 ## Housing Affordability in General
 
