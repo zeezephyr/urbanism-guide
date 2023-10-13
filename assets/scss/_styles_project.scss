@@ -15,8 +15,8 @@ $custom-map: (
 
 .icon {
   display: inline-block;
-  height: 1em;
-  width: 1em;
+  height: 1.2em;
+  width: 1.2em;
   margin: 0 0.5em 0 .1em;
   vertical-align: -0.1em;
   background-repeat: no-repeat;
@@ -52,4 +52,45 @@ $size-map: (
   .#{$name} {
     background-image: url("#{$code}");
   }
+}
+
+// Display pageinfo in line with text width
+.pageinfo {
+  max-width: 80%;
+  margin: 0;
+}
+
+@media (max-width: 991.98px) {
+  .pageinfo {
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+// Make a smaller footer
+.td-footer {
+  min-height: 2rem;
+  padding-top: 1rem;
+}
+
+//  Align icons and name
+.td-navbar .navbar-brand__name {
+  vertical-align: middle;
+}
+
+.td-navbar .navbar-logo {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+// Might be a space to put navbar links on mobile, may want to change in future.
+@media (max-width: 991.98px) {
+  .td-navbar .td-navbar-nav-scroll {
+    height: 0;
+  }
+}
+
+// Make mobile nav menu indentation same as wider screen formats
+.td-sidebar-nav__section .ul-1 ul {
+  padding-left: 1.5rem;
 }
