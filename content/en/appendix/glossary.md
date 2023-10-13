@@ -1,6 +1,7 @@
 ---
 title: Glossary
 icon: "icon twa-open-book"
+weight: 50
 description: >
     Common urbanist terminology and abbreviations.
 ---
