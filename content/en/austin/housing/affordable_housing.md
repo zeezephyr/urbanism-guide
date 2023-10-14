@@ -77,7 +77,7 @@ HOME allows for the building of more housing and better neighborhoods by:
 - Reducing residential minimum lot sizes from 5,750 sq ft to 2,500 sq ft.
 - Allowing up to 3 units of housing to be built on a lot without additional zoning changes to the lot
 
-Quite literally the city council wants to enable more neighborhoods to follow the design principles of Mueller and similarly pleasant areas. Transforming what is a limited luxury for the well off of our city into something that everyone who lives in Austin can enjoy.
+Quite literally the city council wants to do what urbanists have been asking of it. Enable more neighborhoods to follow the design principles of livable, walkable, nice areas. Transforming what is currently a limited luxury for the well off of our city into something that everyone who lives in Austin can enjoy. This doesn't mean all of our neighborhoods will end up looking like any specific place, just that we'll have more flexibility in what we build and who we build it for.
 
 ![A screenshot of the HOME resolution that says: "The City Manager is encouraged to propose changes that are informed by the design principles developed in the Mueller Plan and other similar resources. At minimum, the City Manager is directed to propose amendments that will"](/media/homes_like_mueller.png)
 
