@@ -1,13 +1,14 @@
 ---
 title: "Biking"
 icon: "icon twa-bike"
+description: >
+    Choosing to do some of your trips by bike is a great way to contribute to urbanism in Austin. Learn more about getting around today and what's coming.
 ---
-Choosing to do some of your trips by bike is a great way to contribute to urbanism in Austin. Learn more about getting around today and what's coming.
-<!--more-->
 
 Biking in Austin is becoming more and more accessible with over 230 miles already built. With every bike lane added, with every person out riding bikes, drivers and people in general become more familiar with, aware of, and supportive of biking as a form of commute.
 
 Biking is not just healthy but also offers many other benefits:
+
 - It's much cheaper than driving. Even an e-bike uses just 5-10 cents of electricity per charge and a typical e-bike has a range of 30-60 miles.
 - It's significantly less strain on infrastructure. Bikes cause almost zero damage to roads. Larger, heavier vehicles [are responsible for road damage](https://en.m.wikipedia.org/wiki/Fourth_power_law).
 - Biking is generally a much more pleasant experience than driving. You feel a lot more present, more attached to the world around you, people wave and smile, and you simply move around at more human and lower stressed speeds.

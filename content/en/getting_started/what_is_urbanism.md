@@ -2,9 +2,9 @@
 title: "What is Urbanism?"
 icon: "icon twa-question-mark"
 weight: 1
+description: >
+    Urbanism is neighborism. It is the belief that we can improve the places we live to create more pleasant, lively, sustainable, and human cities, towns, and suburbs. It is a forward looking, future focused disposition that requires driven, tenacious, and hopeful people to succeed.
 ---
-Urbanism is neighborism. It is the belief that we can improve the places we live to create more pleasant, lively, sustainable, and human cities, towns, and suburbs. It is a forward looking, future focused disposition that requires driven, tenacious, and hopeful people to succeed.
-<!--more-->
 
 ## Urbanist goals
 

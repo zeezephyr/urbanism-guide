@@ -2,9 +2,10 @@
 title: "Useful Links"
 icon: "icon twa-link"
 weight: 100
+description: >
+    Links to other urbanist information that urbanists should know.
 ---
-Links to other urbanist information that urbanists should know. If you're interested in Austin urbanist organizations and info then check out [Get Involved](/austin/get_involved).
-<!--more-->
+If you're interested in Austin urbanist organizations and info then check out [Get Involved](/austin/get_involved).
 
 {{% pageinfo color="info" %}}
 {{<contribute>}}

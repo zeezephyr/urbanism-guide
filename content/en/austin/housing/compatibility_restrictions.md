@@ -1,10 +1,9 @@
 ---
 title: "Compatibility Restrictions"
 icon: "icon twa-no-entry"
+description: >
+    Compatibility is a way for owners of single family homes to control what others do with their homes and neighborhood. It's implemented as a second set of building restrictions beyond city zoning.
 ---
-Compatibility is a way for owners of single family homes to control what others do with their homes. It's implemented as a second set of building restrictions beyond city zoning.
-<!--more-->
-
 ## In Austin
 
 Austin has some of the most restrictive compatibility requirements within the United States. Austin's current compatibility restrictions are such that:

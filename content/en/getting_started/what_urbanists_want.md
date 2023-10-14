@@ -1,9 +1,10 @@
 ---
-linkTitle: "What Urbanists Want"
+title: "What Urbanists Want"
 icon: "icon twa-thinking-face"
 description: >
     Urbanists want housing reform, good transportation, human scale neighborhoods, and fairness for all of their city's residents.
 ---
+
 ![](/memes/what_urbanists_want.jpg)
 
 ## Housing Reform

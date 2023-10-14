@@ -1,13 +1,14 @@
 ---
 title: "Highways"
 icon: "icon twa-car"
+description: >
+    Highways are deadly, ugly, and environmentally disastrous. They are one of several pieces of fossil fuel infrastructure that must be extensively reformed and in many cases removed to ensure our future.
 ---
-TxDOT, CAMPO, and the TTC are the three organizations and political bodies that are responsible for our mess of deadly highways. TTC is a state-wide body of 5 political appointees that plans and authorizes 10 year transportation plans (aka UTPs) at a state level. These plans then get passed to TxDOT who must work with CAMPO to identify projects, funding, and finally approve plans that achieve the goals of the UTP.
-<!--more-->
+TxDOT, CAMPO, and the TTC are the three organizations and political bodies that are responsible for our mess of deadly highways. TTC is a state-wide body of 5 political appointees that plans and authorizes 10 year transportation plans (aka UTPs) at a state level. These plans then get passed to TxDOT who must work with CAMPO to identify projects, funding, and finally approve plans that achieve the goals of the UTP. Collectively they represent a destructive, unrepresentative, and undemocratic force of will of the oil and gas industry to carve up our cities and environment for profit.
 
 ## Preface: The Cost of Highways and Roads
 
-The true cost of highways and roads is almost never discussed when it comes to budgeting within the US. The necessity of an ever larger amount of road and all their economic, social, and environmental costs are simply taken as-is. On the economic side of the equation roads cost the average househould $14,000 per year regardless of if they own a car or not. When factoring in car ownership the cost nearly doubles to [$26,000 per household per year on average for the total cost of using roads](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/). We need to ask the question of whether or not we should be paying such astronomical costs for the car economy when more affordable, cleaner, and safer alternatives exist.
+The true cost of highways and roads is almost never discussed when it comes to budgeting within the US. The necessity of an ever larger amount of road and all their economic, social, and environmental costs are simply taken as-is. On the economic side of the equation roads cost the average household $14,000 per year regardless of if they own a car or not. When factoring in car ownership the cost nearly doubles to [$26,000 per household per year on average for the total cost of using roads](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/). We need to ask the question of whether or not we should be paying such astronomical costs for the car economy when more affordable, cleaner, and safer alternatives exist.
 
 ## Texas Department of Transportation (TxDOT)
 
@@ -24,7 +25,7 @@ TxDOT road expansions include highways as well as many regular streets within ci
 
 - [Proposition 7](https://statutes.capitol.texas.gov/Docs/CN/htm/CN.8/CN.8.7-c.htm): Directs portions of state sales and use taxes, as well as motor vehicle sale and rental taxes to: "(1) construct, maintain, or acquire rights of way for public roadways other than toll roads; or (2) repay the principal of and interest on general obligation bonds issued as authorized by Section 49-p, Article III, of this constitution."
 
-    In combination these two propositions have lead to tens of billions of state tax dollars being directed towards maintaining and expanding highways and all the negativies that car dependent infrastructure brings to us and our cities.
+    In combination these two propositions have lead to tens of billions of state tax dollars being directed towards maintaining and expanding highways and all the negatives that car dependent infrastructure brings to us and our cities.
 
 - [Congestion Mitigation and Air Quality (CMAQ) Improvement Program](https://www.fhwa.dot.gov/bipartisan-infrastructure-law/cmaq.cfm): This is a federal program which says when a state fails to meet their obligations under the Clean Air Act they can be awarded funding to improve their compliance. However this bill also allows up to 50% of funding to be redirected to other highway and transportation activities. The end result being that states are able to use funding intended for improving our air quality to instead construct additional highways and roads.
     > "A State may transfer up to 50% of CMAQ funds made available each fiscal year to any other apportionment of the State, including the National Highway Performance Program, Surface Transportation Block Grant Program, Highway Safety Improvement Program, National Highway Freight Program [..]"
