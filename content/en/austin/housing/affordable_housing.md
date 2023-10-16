@@ -58,7 +58,7 @@ As of 2023 over 3,000 units of housing have been built or are under construction
 
 The original VMU zoning (VMU1) was introduced in 2010 and allowed for reducing setbacks, mixed use development (residential and commercial), and reduced parking minimums along with other considerations that allow for denser housing. Along with this VMU1 set out small allowances of 10% affordable housing for rental and ownership developments.
 
-VMU1 has thus far succeeded in creating over 100 new buildings under this zoning and as such was [expanded with VMU2](https://services.austintexas.gov/edims/document.cfm?id=371876) that allows for buildings zoned for high density multifamily residences (MF-6) to reach 90 feet in height by right (ie. by default). VMU1 buildings were typically limited to 60 feet and could be kept lower due to [compatibility restrictions](/austin/housing/compatibility_restrictions).
+VMU1 has thus far succeeded in creating over 100 new buildings under this zoning and as such was [expanded with VMU2](https://services.austintexas.gov/edims/document.cfm?id=371876) that allows for buildings zoned for high density multifamily residences (MF-6) to reach 90 feet in height by right (ie. by default). VMU1 buildings are typically limited to 60 feet or less. Both VMU1 and VMU2 can be kept lower due to [compatibility restrictions](/austin/housing/compatibility_restrictions).
 
 ### Equitable Transit Oriented Development (TOD / ETOD)
 
