@@ -1,7 +1,7 @@
 ---
 title: "Useful Links"
 icon: "icon twa-link"
-weight: 100
+weight: 20
 description: >
     Links to other urbanist information that urbanists should know.
 ---
