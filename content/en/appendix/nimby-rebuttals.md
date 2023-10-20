@@ -1,6 +1,7 @@
 ---
 title: NIMBY Rebuttals
 icon: "icon twa-mosquito"
+weight: 10
 description: >
     A brief explanation of what the NIMBY anti-housing movement is and rebuttals to common arguments
 ---
