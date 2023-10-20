@@ -39,7 +39,7 @@ Similarly home ownership costs have stayed low in Minneapolis, Houston, and othe
 
 [Source: Houston.org "Housing cost comparison"](https://www.houston.org/houston-data/housing-cost-comparison)
 
-More generally this is how we know capitalism works. When artificial constraints are removed from markets and supply is allowed to naturally increase this brings down costs for people. It's not magic, it's not something that works the opposite of every other resource, it's subject to the same supply and demand forces.
+More generally this is how capitalism works. When artificial constraints are removed from markets and supply is allowed to naturally increase this brings down costs for people. It's not magic, it's not something that works the opposite of every other resource, it's subject to the same supply and demand forces.
 
 However, not all housing affordability will or should be a result simply of market forces. In other cases we need our city to step in and ensure that the most in need have a safe, warm, and stable place to sleep every night, to engage with others, and to have friends over. All humans deserve this minimum of dignity and thankfully Austin has also implemented measures to help address this. You can read more about theses measures in the [Affordable Housing](/austin/housing/affordable_housing) section.
 
