@@ -8,11 +8,7 @@ description: >
 >
 > \-\- Parker
 
-There are many justifications given for opposing housing. Below you'll find some common and flawed arguments and rebuttals to them. This is offered primarily for those curious about arguments they have heard against housing and who may be unaware of the evidence against each of these arguments. Anti-housing arguments are often rhetorical rather than factual, picked for their ability to persuade rather than inform. As we'll see even a mild exploration of the data around housing shows that more housing makes homes more affordable.
-
-More generally this is how we know capitalism works. When artificial constraints are removed from markets and supply is allowed to naturally increase this brings down costs for people. It's not magic, it's not something that works the opposite of every other resource, it's subject to the same supply and demand forces.
-
-However, not all housing affordability will or should be a result simply of market forces. In other cases we need our city to step in and ensure that the most in need have a safe, warm, and stable place to sleep every night, to engage with others, and to have friends over. All humans deserve this minimum of dignity and thankfully Austin has also implemented measures to help address this. You can read more about theses measures in the [Affordable Housing](/austin/housing/affordable_housing) section.
+There are many justifications given for opposing housing. Below you'll find some common and flawed arguments and rebuttals to them. This is offered primarily for those curious about arguments they have heard against housing and who may be unaware of the evidence against each of these arguments. Anti-housing arguments are often rhetorical rather than factual, picked for their ability to persuade rather than inform. As we'll see even a mild exploration of the data around housing shows that more housing makes homes more affordable while more public transit options and choices beyond car commuting makes getting around faster, more pleasant, and more equitable.
 
 ## Costs
 
@@ -42,6 +38,10 @@ Similarly home ownership costs have stayed low in Minneapolis, Houston, and othe
 ![A chart showing the 20 most populous US Metros and their housing costs relative to the national average. Houston is near the bottom with -17% while Manhattan is at the top at 400%.](/media/houston_low_housing_costs_relative_national_average.jpg)
 
 [Source: Houston.org "Housing cost comparison"](https://www.houston.org/houston-data/housing-cost-comparison)
+
+More generally this is how we know capitalism works. When artificial constraints are removed from markets and supply is allowed to naturally increase this brings down costs for people. It's not magic, it's not something that works the opposite of every other resource, it's subject to the same supply and demand forces.
+
+However, not all housing affordability will or should be a result simply of market forces. In other cases we need our city to step in and ensure that the most in need have a safe, warm, and stable place to sleep every night, to engage with others, and to have friends over. All humans deserve this minimum of dignity and thankfully Austin has also implemented measures to help address this. You can read more about theses measures in the [Affordable Housing](/austin/housing/affordable_housing) section.
 
 ### Property taxes will go up
 
