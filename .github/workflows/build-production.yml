@@ -27,6 +27,8 @@ on:
     branches:
       - main  # Set a branch to deploy
   pull_request:
+    branches:
+      - main
 
 jobs:
   deploy:
@@ -58,7 +60,7 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
 
       - run: npm ci
-      - run: hugo -e production --minify
+      - run: hugo -e production
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

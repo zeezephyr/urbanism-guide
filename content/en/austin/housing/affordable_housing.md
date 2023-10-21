@@ -26,8 +26,9 @@ Within the city of Austin these initiatives have taken the form of:
 
 - Affordability Unlocked
 - VMU1/2
-- SMART
+- TOD/ETOD
 - HOME
+- SMART
 
 There are also federal programs which we won't discuss here as they're outside the scope of this article
 
@@ -35,7 +36,7 @@ There are also federal programs which we won't discuss here as they're outside t
 The income levels mentioned below are based on [Median Family Income (MFI)](https://www.austintexas.gov/sites/default/files/files/Housing_%26_Planning/MFI%20Chart%20Effective_2022.pdf). MFI is a measure of what the average household earns in the Austin-Round Rock area. The 100% MFI in 2022 was $88,250 for a family of 2 meaning half of all families earned less than this, and half earned more. This could be one family member earning $88,250, or 2 each earning $44,125, or any other split.
 {{% /alert %}}
 
-### Affordability Unlocked
+### Affordability Unlocked (AU)
 
 [Affordability unlocked](https://www.austintexas.gov/department/affordability-unlocked-development-bonus-program) is a program created by the City of Austin in 2019 ([original text](https://services.austintexas.gov/edims/document.cfm?id=319975), [AU guide](https://www.austintexas.gov/sites/default/files/files/Housing/AU_Applicant_Guide_FINAL_1019.pdf)) to address housing affordability without subsidizing the housing with taxes. The plan achieves this by allowing developers who apply for Affordability Unlocked to build housing that is up to 25-50% taller than the current zoning limitations. This program is most commonly used in tandem with Multi-family zoning and [VMU combining zoning districts](https://services.austintexas.gov/edims/document.cfm?id=383601) along transit corridors where residents would have close and convenient access to public transit.
 
@@ -47,7 +48,7 @@ Under Type 2 at least three quarters of all units must be affordable and meet al
 
 As of 2023 over 3,000 units of housing have been built or are under construction with this program with another 3,000 units in the planning stages. Incredibly 80% of all planned and built housing units under this plan meet the affordability requirements of AU, exceeding the minimums set in place by the program.
 
-### Vertical Mixed Use Zoning (1 & 2)
+### Vertical Mixed Use Zoning (VMU1 & VMU2)
 
 [Vertical Mixed Use zoning](https://services.austintexas.gov/edims/document.cfm?id=383601) is a provision applied along major existing and future transit corridors with the goal of getting more of Austin's citizens close to transit with mixed-use development that provides both housing and retail development. This zoning addresses affordability in multiple ways:
 
@@ -57,13 +58,32 @@ As of 2023 over 3,000 units of housing have been built or are under construction
 
 The original VMU zoning (VMU1) was introduced in 2010 and allowed for reducing setbacks, mixed use development (residential and commercial), and reduced parking minimums along with other considerations that allow for denser housing. Along with this VMU1 set out small allowances of 10% affordable housing for rental and ownership developments.
 
-VMU1 has thus far succeeded in creating over 100 new buildings under this zoning and as such was [expanded with VMU2](https://services.austintexas.gov/edims/document.cfm?id=371876) that allows for buildings zoned for high density multifamily residences (MF-6) to reach 90 feet in height by right (ie. by default). VMU1 buildings were typically limited to 60 feet and could be kept lower due to [compatibility restrictions](/austin/housing/compatibility_restrictions).
+VMU1 has thus far succeeded in creating over 100 new buildings under this zoning and as such was [expanded with VMU2](https://services.austintexas.gov/edims/document.cfm?id=371876) that allows for buildings zoned for high density multifamily residences (MF-6) to reach 90 feet in height by right (ie. by default). VMU1 buildings are typically limited to 60 feet or less. Both VMU1 and VMU2 can be kept lower due to [compatibility restrictions](/austin/housing/compatibility_restrictions).
 
-### HOME
+### Equitable Transit Oriented Development (TOD / ETOD)
 
 {{% pageinfo color="info" %}}
 {{<contribute>}}
 {{% /pageinfo %}}
+
+### Home Options for Middle-income Empowerment (HOME)
+
+One of the key hindrances to housing affordability is the availability of housing. Within Austin, and most US cities, supply has been artificially restricted for over half a century. Today Austin has a housing code (aka Land Development Code) that was last updated in the 1980s with the idea that it's important to keep property sizes very large, and housing very limited, so that only those with high means can enjoy living here.
+
+[HOME is an initiative](https://services.austintexas.gov/edims/document.cfm?id=411485) very much representative of today's generational housing conflict. It's currently (as of Oct 2023) being considered by City Council with overwhelming support while simultaneously being the target of anti-housing activists.
+
+HOME allows for the building of more housing and better neighborhoods by:
+
+- Reducing residential minimum lot sizes from 5,750 sq ft to 2,500 sq ft.
+- Allowing up to 3 units of housing to be built on a lot without additional zoning changes to the lot
+
+Quite literally the city council wants to do what urbanists have been asking of it. Enable more neighborhoods to follow the design principles of livable, walkable, nice areas. Transforming what is currently a limited luxury for the well off of our city into something that everyone who lives in Austin can enjoy. This doesn't mean all of our neighborhoods will end up looking like any specific place, just that we'll have more flexibility in what we build and who we build it for.
+
+![A screenshot of the HOME resolution that says: "The City Manager is encouraged to propose changes that are informed by the design principles developed in the Mueller Plan and other similar resources. At minimum, the City Manager is directed to propose amendments that will"](/media/homes_like_mueller.png)
+
+{{% alert title="Minimum Lot Size" color="primary" %}}
+Austin's minimum lot size will still remain quite big relative to nearby cities. Houston for example has a minimum lot size of 1,400 sq ft!
+{{% /alert %}}
 
 ### SMART
 
