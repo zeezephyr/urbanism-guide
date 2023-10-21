@@ -56,9 +56,19 @@ No infrastructure is static and a building permit issued day 1 does not create a
 
 ### The roads can't handle it
 
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
+This is correct but in the wrong way. Car-centric roads have never and will never handle capacity as well as every other mode of transportation does. The answer to the question of what to do about road capacity is not to limit housing, encourage sprawl, and further environmental destruction through car dependence. The answer is to provide better more convenient modes of transit, to build people's basic necessities close to where they live, and to stop spending so much of our lives literally dying in traffic.
+
+Car dependence has resulted in yearly costs of:
+
+- $26,000 of costs per household
+- 40,000 deaths on US roads. 40,000 funerals. Countless devastated family members and friends
+- [4,000,000,000 pounds of microplastics](/austin/transportation/highways)
+
+The solution then is to build infrastructure for [public transit](/austin/transportation/public_transit), [biking](/austin/transportation/biking), and walking. Check those articles to learn more.
+
+{{% alert title="Did you know?" color="primary" %}}
+50% of all trips made in the US are 3 miles or less. These are easily reachable for most people with an e-bike or manual bike provided the infrastructure is available. [Learn more](/austin/transportation/biking).
+{{% /alert %}}
 
 ### The water/sewer can't handle it
 
@@ -90,7 +100,7 @@ Parking, large roads, and empty spaces create heat islands. Taller buildings may
 
 ### More housing is bad for the environment
 
-It should go without saying but people need a place to live. They will need homes regardless. So questions on environmentalism boil down to efficiency and where homes are built rather than if we should build.
+It should go without saying but people need a place to live. They will need homes regardless. So questions on environmentalism boil down to efficiency and where and how homes are built rather than if we should build.
 
 {{% pageinfo color="info" %}}
 {{<contribute>}}
@@ -100,10 +110,12 @@ It should go without saying but people need a place to live. They will need home
 
 ### Anyone who disagrees with me is paid off by the real estate industry
 
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
+There are many people who want housing, including 73% of Austin teachers who say they're burdened by the cost of housing.
+
+![A chart showing that 73.2% of teachers say they are "cost burdened by housing expenses". The chart goes on to show that 31% spend more than 50% of their salary on housing, while 42% spend 31-50% of their salary on housing](/media/aisd_austin_teachers_housing_cost_burdened.png)
+
+[Source: Austin Independent School District "Rosedale Repurposing Update"](https://www.austinisd.org/sites/default/files/dept/school-repurposing/docs/Rosedale%20Repurposing%20Update-09-12-2023-ENG.pdf)
 
 ### Living in pods, eating bugs, not allowed to leave our zone
 
-Honey we just want to be able to walk to a store, a park, or let kid's play outside safely. This isn't Facebook nor the end times.
+Honey we just want to be able to walk to a store, a park, or let kid's play outside safely. This isn't Facebook nor the end times but it will be if we keep doing things the way we have been.
