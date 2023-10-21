@@ -8,9 +8,11 @@ TxDOT, CAMPO, and the TTC are the three organizations and political bodies that 
 
 ## Preface: The Cost of Highways and Roads
 
-The true cost of highways and roads is almost never discussed when it comes to budgeting within the US. The necessity of an ever larger amount of road and all their economic, social, and environmental costs are simply taken as-is. On the economic side of the equation roads cost the average household $14,000 per year regardless of if they own a car or not. When factoring in car ownership the cost nearly doubles to [$26,000 per household per year on average for the total cost of using roads](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/). We need to ask the question of whether or not we should be paying such astronomical costs for the car economy when more affordable, cleaner, and safer alternatives exist.
+The true cost of highways and roads is almost never discussed when it comes to budgeting within the US. The necessity of an ever larger amount of road and all their economic, social, and environmental costs are simply taken as-is.
 
-Car tires are the second largest source of primary microplastics in our environment producing [3,962,765,390 pounds (1,797,480 tonnes) of microplastic pollution](https://www.sciencedirect.com/science/article/pii/S0048969720313358?via%3Dihub#s0050) per year. The US is also the single largest per capita creator of tire-based microplastics due to how much we drive.
+On the economic side of the equation roads cost the average household $14,000 per year regardless of if they own a car or not. When factoring in car ownership the cost nearly doubles to [$26,000 per household per year on average for the total cost of using roads](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/). We need to ask the question of whether or not we should be paying such astronomical costs for the car economy when more affordable, cleaner, and safer alternatives exist.
+
+On the environmental side, beyond burning fossil fuels, car tires are the second largest source of primary microplastics in our environment producing [3,962,765,390 pounds (1,797,480 tonnes) of microplastic pollution](https://www.sciencedirect.com/science/article/pii/S0048969720313358?via%3Dihub#s0050) per year. The US is also the single largest per capita creator of tire-based microplastics due to how much we drive.
 
 ## Texas Department of Transportation (TxDOT)
 
