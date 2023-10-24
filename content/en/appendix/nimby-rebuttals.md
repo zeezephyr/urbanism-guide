@@ -76,13 +76,17 @@ Austin, like most every major city in the US, has [a water department](https://w
 
 More specifically within Austin when it comes to concerns about water supply we see:
 
+- Multi-family homes are much more water efficient than single family homes
 - A large reduction in the number of gallons of water pumped per capita per day since 2008
-- Multi-family units are much more water efficient than single family homes
 - Water bills continuing to trend down relative to Austin's Median Household Income
 
-When it comes to water consumption additional housing units are not a contributor to waste. Per the US Census, Single family homes housed [49% of Austin residents in 2019](https://data.census.gov/table/ACSCP1Y2022.CP04?q=Housing+Units&t=Housing:Occupancy+Characteristics&g=160XX00US4805000) while accounting for [60% of residential water use](https://data.austintexas.gov/Utilities-and-City-Services/Austin-Water-Residential-Water-Consumption/sxk7-7k6z) during that same period. Single family homes are simply less efficient with our water resources than multi-family homes.
+On the first point, single family homes contribute to water waste while multi-family homes are more efficient per capita. According to the US Census and data from Austin Water (2019-2020), single family homes use roughly 20% more water per capita than Multi-family homes. Single family homes are simply less efficient with our water resources than multi-family homes. The chart below shows that both single and multi-family homes each made up about half of the population Austin, yet there are large differences in their water consumption.
 
-The largest waste of water with single family homes is watering non-native grass that needs copious amounts of water to survive in Texas. This is why when Texas enters drought periods what we get are notices to reduce watering lawns.
+![Chart showing that despite both Multi-family and Single-family homes making up roughly half the population of Austin, the Single-Family homes use 20% more water than the Multi-Family ones per capita](/media/sfh_more_water_usage_than_mfh.png)
+
+Sources: [US Census 2019 Estimates](https://data.census.gov/table/ACSCP1Y2022.CP04?q=Housing+Units&t=Housing:Occupancy+Characteristics&g=160XX00US4805000), and [Austin Water "Residential Water Consumption" data set](https://data.austintexas.gov/Utilities-and-City-Services/Austin-Water-Residential-Water-Consumption/sxk7-7k6z) (Most recently available 12 month period: 2019-2020)
+
+The largest waste of water with single family homes is watering lawns full of bermuda grass and other non-native species that needs copious amounts of water to survive Texas summers. This is why we get are notices to reduce watering lawns when Texas enters drought periods.
 
 ![Example of an Austin stage 2 water restriction notice that encourages watering lawns only once a week in either the early morning or at night](/media/austin_water_reduce_watering_lawns_notice.png)
 
