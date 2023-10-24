@@ -5,7 +5,7 @@ description: >
     Choosing to do some of your trips by bike is a great way to contribute to urbanism in Austin. Learn more about getting around today and what's coming.
 ---
 
-Biking in Austin is becoming more and more accessible with over 230 miles already built. With every bike lane added, with every person out riding bikes, drivers and people in general become more familiar with, aware of, and supportive of biking as a form of commute.
+Biking in Austin is becoming more and more accessible with over 230 miles of bike lanes already built. With every bike lane added, with every person out riding bikes, drivers and people in general become more familiar with, aware of, and supportive of biking as a form of commute.
 
 Biking is not just healthy but also offers many other benefits:
 

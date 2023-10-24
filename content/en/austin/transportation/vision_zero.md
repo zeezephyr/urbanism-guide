@@ -3,6 +3,9 @@ title: "Vision Zero"
 icon: "icon twa-eye"
 description: >
     Vision zero is a multifaceted strategy that is being used across the world to reduce traffic related injuries and fatalities down to zero.
+_build:
+  list: never
+  render: never
 ---
 
 At a broad level vision zero incorporates:
