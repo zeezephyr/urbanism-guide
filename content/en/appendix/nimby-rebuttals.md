@@ -70,7 +70,32 @@ The solution then is to build infrastructure for [public transit](/austin/transp
 50% of all trips made in the US are 3 miles or less. These are easily reachable for most people with an e-bike or manual bike provided the infrastructure is available. [Learn more](/austin/transportation/biking).
 {{% /alert %}}
 
-### The water/sewer can't handle it
+### The water supply can't handle it
+
+Austin, like most every major city in the US, has [a water department](https://www.austintexas.gov/content/austin-water) that produces [plans to address water needs](https://www.austintexas.gov/sites/default/files/files/Water/Initiatives/AW_StrategicPlan_2024.pdf) well into the city's future and provides [annual progress reports](https://data.austintexas.gov/stories/s/Austin-Water-2022-Annual-Progress-Report/hc42-psr7). Austin Water itself has a 100-year plan termed ["Water Forward"](https://www.austintexas.gov/sites/default/files/files/Water/WaterForward/Water_Forward_Plan_Report_-_A_Water_Plan_for_the_Next_100_Years.pdf) that the department is using to ensure the city has enough water.
+
+More specifically within Austin when it comes to concerns about water supply we see:
+
+- A large reduction in the number of gallons of water pumped per capita per day since 2008
+- Multi-family units are much more water efficient than single family homes
+- Water bills continuing to trend down relative to Austin's Median Household Income
+
+When it comes to water consumption additional housing units are not a contributor to waste. Per the US Census, Single family homes housed [49% of Austin residents in 2019](https://data.census.gov/table/ACSCP1Y2022.CP04?q=Housing+Units&t=Housing:Occupancy+Characteristics&g=160XX00US4805000) while accounting for [60% of residential water use](https://data.austintexas.gov/Utilities-and-City-Services/Austin-Water-Residential-Water-Consumption/sxk7-7k6z) during that same period. Single family homes are simply less efficient with our water resources than multi-family homes.
+
+The largest waste of water with single family homes is watering non-native grass that needs copious amounts of water to survive in Texas. This is why when Texas enters drought periods what we get are notices to reduce watering lawns.
+
+![Example of an Austin stage 2 water restriction notice that encourages watering lawns only once a week in either the early morning or at night](/media/austin_water_reduce_watering_lawns_notice.png)
+
+[Source: Austin Water "Drought Response"](https://www.austintexas.gov/page/drought-response)
+
+So while people may make unfounded claims that our water crisis will get worse with more density, we actually see that the opposite is true:
+
+1. That denser housing is much more efficient, while sprawl is more wasteful
+1. The solution to water concerns is not to ban housing but to restrict wasteful usage of our natural resources
+
+![Chart showing Austin water consumption dropping from 160 gallons per capita per day in 2008 to 120 in 2019 with a bit of an uptick to 130 in 2022.](/media/austin_water_gpcd_reduction_chart.png)
+
+[Austin Water "2022 Annual Progress Report"](https://data.austintexas.gov/stories/s/Austin-Water-2022-Annual-Progress-Report/hc42-psr7)
 
 {{% pageinfo color="info" %}}
 {{<contribute>}}
