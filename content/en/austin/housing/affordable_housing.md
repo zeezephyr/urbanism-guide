@@ -13,10 +13,6 @@ Most generally affordable housing can be broken down into two major categories:
 
 Both of these are entirely legitimate concerns and ways to think about housing, so we'll discuss them both and some of the ways in which affordability has been and can continue to be addressed. However it's important to keep in mind that housing affordability is one large piece of a big puzzle that includes cost of transit, utilities, and services.
 
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
-
 ## City of Austin Housing Affordability Initiatives
 
 Housing security is one of several important safety nets that are crucial to a healthy and functioning society.
