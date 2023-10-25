@@ -65,6 +65,11 @@ $size-map: (
     max-width: 100%;
     margin: 0;
   }
+
+  // Might be a space to put navbar links on mobile, may want to change in future.
+  .td-navbar .td-navbar-nav-scroll {
+    height: 0;
+  }
 }
 
 // Make a smaller footer
@@ -83,13 +88,6 @@ $size-map: (
   display: inline-block;
 }
 
-// Might be a space to put navbar links on mobile, may want to change in future.
-@media (max-width: 991.98px) {
-  .td-navbar .td-navbar-nav-scroll {
-    height: 0;
-  }
-}
-
 // Make mobile nav menu indentation same as wider screen formats
 .td-sidebar-nav__section .ul-1 ul {
   padding-left: 1.5rem;
@@ -97,4 +95,32 @@ $size-map: (
 
 .td-content .img-fluid {
   box-shadow: rgba(123, 81, 148, 0.4) 2px 1px 2px 2px, rgba(30, 19, 36, 0.4) 1px 2px 3px 2px;
+}
+
+// Make anchor links always visible
+h2 > a > svg,
+h3 > a > svg,
+h4 > a > svg,
+h5 > a > svg,
+h6 > a > svg {
+  visibility: visible;
+  color: $gray-500;
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+h2 > a > svg:hover,
+h3 > a > svg:hover,
+h4 > a > svg:hover,
+h5 > a > svg:hover,
+h6 > a > svg:hover {
+  visibility: visible;
+  color: var(--bs-link-color);
+}
+
+// YouTube video width matches content width
+@media (min-width: 992px) {
+  div > iframe[title="YouTube Video"] {
+    max-width: 80%;
+  }
 }
