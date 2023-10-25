@@ -11,7 +11,7 @@ description: >
 
 There are many justifications given for opposing housing. Below you'll find some common and flawed arguments and rebuttals to them. This is offered primarily for those curious about arguments they have heard against housing and who may be unaware of the evidence against each of these arguments. Anti-housing arguments are often rhetorical rather than factual, picked for their ability to persuade rather than inform. As we'll see even a mild exploration of the data around housing shows that more housing makes homes more affordable while more public transit options and choices beyond car commuting makes getting around faster, more pleasant, and more equitable.
 
-## Costs
+## Economic
 
 ### Housing prices / Rent will continue to cost the same or increase
 
@@ -50,6 +50,16 @@ As you can see in the above topic if property values come down then so will prop
 
 Similarly in Connecticut towns that issued the most housing permits had their residents spending [$4,900 less in property taxes](https://ctmirror.org/2023/10/13/ct-housing-units-property-tax-rates/) than towns issuing few permits.
 
+### Cities cost too much
+
+Dense city centers create wealth in a city while car-centric suburbia destroys it.
+
+{{< youtube 7Nw6qyyrTeI >}}
+
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}
+
 ## Infrastructure
 
 No infrastructure is static and a building permit issued day 1 does not create a building on day 2. There are long lead times and many departments within the City of Austin who's job it is to ensure infrastructure meets demand.
@@ -86,7 +96,11 @@ On the first point, single family homes contribute to water waste while multi-fa
 
 Sources: [US Census 2019 Estimates](https://data.census.gov/table/ACSCP1Y2022.CP04?q=Housing+Units&t=Housing:Occupancy+Characteristics&g=160XX00US4805000), and [Austin Water "Residential Water Consumption" data set](https://data.austintexas.gov/Utilities-and-City-Services/Austin-Water-Residential-Water-Consumption/sxk7-7k6z) (Most recently available 12 month period: 2019-2020)
 
-The largest waste of water with single family homes is watering lawns full of bermuda grass and other non-native species that needs copious amounts of water to survive Texas summers. This is why we get are notices to reduce watering lawns when Texas enters drought periods.
+{{% alert title="According to the EPA" color="primary" %}}
+[Outdoor water use accounts](https://www.epa.gov/watersense/how-we-use-water) for 30 percent of household use yet can be much higher in drier parts of the country and in more water-intensive landscapes
+{{% /alert %}}
+
+The largest waste of water with single family homes is watering lawns full of bermuda grass and other non-native species that needs copious amounts of water to survive Texas summers. This is why we get notices to reduce lawn watering when Texas enters drought periods.
 
 ![Example of an Austin stage 2 water restriction notice that encourages watering lawns only once a week in either the early morning or at night](/media/austin_water_reduce_watering_lawns_notice.png)
 
@@ -100,11 +114,6 @@ So while people may make unfounded claims that our water crisis will get worse w
 ![Chart showing Austin water consumption dropping from 160 gallons per capita per day in 2008 to 120 in 2019 with a bit of an uptick to 130 in 2022.](/media/austin_water_gpcd_reduction_chart.png)
 
 [Austin Water "2022 Annual Progress Report"](https://data.austintexas.gov/stories/s/Austin-Water-2022-Annual-Progress-Report/hc42-psr7)
-
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-Maybe mention that 75% of residential water usage is for empty lawns full of non-native grass.
-{{% /pageinfo %}}
 
 ### The electric grid can't handle it
 
@@ -147,4 +156,4 @@ There are many people who want housing, including 73% of Austin teachers who say
 
 ### Living in pods, eating bugs, not allowed to leave our zone
 
-Honey we just want to be able to walk to a store, a park, or let kid's play outside safely. This isn't Facebook nor the end times but it will be if we keep doing things the way we have been.
+Honey we just want to be able to walk to a store, a park, or let kids play outside safely. This isn't Facebook nor the end times but it will be if we keep doing things the way we have been.
