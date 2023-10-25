@@ -35,10 +35,14 @@ Scroll through to find regularly updated maps of what's been finished, what's cu
 
 Austin recently updated its AAA network plan to make cycling an integral part of the city's transportation network. The biggest improvements over the 2014 plan are a number of new street identified for the AAA network and  a commitment to concrete barrier or planter protection for all protected bike lanes when the network reaches full build-out. You can read the full [updated AAA 2023 Bicycle Plan here](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aab8e2bdd-f183-3e4d-bbc1-187138049fba).
 
+## Austin Energy e-Ride Rebate
+
+Austin Energy is currently offering a significant rebate on electric e-Bikes, scooters, mopeds, and motorcycles purchased in Austin. The rebate ranges from $200-$600 depending on the price of the vehicle and there is an even larger rebate of $300-$1,300 for those customers on Austin Energy's Customer Assistance Program (CAP). You can [learn more about the program](https://austinenergy.com/green-power/plug-in-austin/more-ways-to-go-electric/e-ride-rebate) on Austin Energy's website.
+
 ## Biking Route Applications
 
 The biggest and most popular mapping apps unfortunately don't always do the best job giving you the best biking routes. They're still very car-focused and as such tend to not consider the various side streets, short cuts, and slightly longer but safer routes that most bike riders prefer. Fortunately there are many apps available to help you plan your routes such as:
 
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
+- [Citymapper](https://citymapper.com/) ([Android](https://play.google.com/store/apps/details?id=com.citymapper.app.release&hl), and [iOS](https://apps.apple.com/us/app/citymapper-all-live-transit/id469463298))
+- [Cyclers](https://cyclers.app/) ([Android](https://play.google.com/store/apps/details?id=com.umotional.bikeapp&hl=en), and [iOS](https://apps.apple.com/cz/app/cyclers-bike-map-navigation/id1213867271))
+- [Komoot](https://www.komoot.com/) ([Android](https://play.google.com/store/apps/details?hl=en&id=de.komoot.android), and [iOS](https://apps.apple.com/us/app/komoot-hike-bike-run/id447374873))
