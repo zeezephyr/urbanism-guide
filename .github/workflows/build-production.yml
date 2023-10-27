@@ -60,7 +60,7 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
 
       - run: npm ci
-      - run: hugo -e production
+      - run: hugo --minify -e production
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
