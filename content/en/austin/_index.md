@@ -12,10 +12,10 @@ In this section we will explain how Housing and Transportation look in Austin, w
 
 - [Affordable Housing](/austin/housing/affordable_housing)
 - [Biking](/austin/transportation/biking)
-- [Public Transit](/austin/transportation/public_transit)
 - [Compatibility Restrictions](/austin/housing/compatibility_restrictions)
-- [TxDOT and CAMPO](/austin/transportation/highways)
+- [Highways](/austin/transportation/highways)
 - And more. Check out the side bar for the full list.
 
+<!-- - [Public Transit](/austin/transportation/public_transit) -->
 <!-- - [Restrictive Zoning](/austin/housing/restrictive_zoning) -->
 <!-- - [Vision Zero](/austin/transportation/vision_zero) -->
