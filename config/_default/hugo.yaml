@@ -1,4 +1,4 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://urbanism.guide'
 languageCode: 'en-us'
 title: 'Urbanism.guide'
 
@@ -34,14 +34,13 @@ build:
 # Breadcrumbs off for now because they allow navigation to pages
 # that don't have any text on them
 params:
+  copyright: Content is made available under the Creative Commons CC-BY-NC-SA 4.0 license. Attribute by linking to urbanism.guide
   offlineSearch: true
   ui:
     breadcrumb_disable: true
     taxonomy_breadcrumb_disable: true
     # TODO: Fix footer
-    footer_about_disable: false
-    footer_all_rights_reserved:
-      other: "Content is licensed under CC BY-NC-SA 4.0. Attribute by linking to urbanism.guide."
+    # footer_about_disable: false
     # sidebar_menu_compact: true
     # ul_show: 1
     # sidebar_menu_foldable: true
