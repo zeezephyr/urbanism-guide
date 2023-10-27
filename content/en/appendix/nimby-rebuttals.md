@@ -11,7 +11,7 @@ description: >
 
 There are many justifications given for opposing housing. Below you'll find some common and flawed arguments and rebuttals to them. This is offered primarily for those curious about arguments they have heard against housing and who may be unaware of the evidence against each of these arguments. Anti-housing arguments are often rhetorical rather than factual, picked for their ability to persuade rather than inform. As we'll see even a mild exploration of the data around housing shows that more housing makes homes more affordable while more public transit options and choices beyond car commuting makes getting around faster, more pleasant, and more equitable.
 
-## Costs
+## Economic
 
 ### Housing prices / Rent will continue to cost the same or increase
 
@@ -50,6 +50,16 @@ As you can see in the above topic if property values come down then so will prop
 
 Similarly in Connecticut towns that issued the most housing permits had their residents spending [$4,900 less in property taxes](https://ctmirror.org/2023/10/13/ct-housing-units-property-tax-rates/) than towns issuing few permits.
 
+### Cities cost too much
+
+Dense city centers create wealth in a city while car-centric suburbia destroys it.
+
+{{< youtube 7Nw6qyyrTeI >}}
+
+{{% pageinfo color="info" %}}
+{{<contribute>}}
+{{% /pageinfo %}}
+
 ## Infrastructure
 
 No infrastructure is static and a building permit issued day 1 does not create a building on day 2. There are long lead times and many departments within the City of Austin who's job it is to ensure infrastructure meets demand.
@@ -64,18 +74,46 @@ Car dependence has resulted in yearly costs of:
 - 40,000 deaths on US roads. 40,000 funerals. Countless devastated family members and friends
 - [4,000,000,000 pounds of microplastics](/austin/transportation/highways)
 
-The solution then is to build infrastructure for [public transit](/austin/transportation/public_transit), [biking](/austin/transportation/biking), and walking. Check those articles to learn more.
+The solution then is to build infrastructure for public transit, [biking](/austin/transportation/biking), and walking. Check those articles to learn more.
 
 {{% alert title="Did you know?" color="primary" %}}
 50% of all trips made in the US are 3 miles or less. These are easily reachable for most people with an e-bike or manual bike provided the infrastructure is available. [Learn more](/austin/transportation/biking).
 {{% /alert %}}
 
-### The water/sewer can't handle it
+### The water supply can't handle it
 
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-Maybe mention that 75% of residential water usage is for empty lawns full of non-native grass.
-{{% /pageinfo %}}
+Austin, like most every major city in the US, has [a water department](https://www.austintexas.gov/content/austin-water) that produces [plans to address water needs](https://www.austintexas.gov/sites/default/files/files/Water/Initiatives/AW_StrategicPlan_2024.pdf) well into the city's future and provides [annual progress reports](https://data.austintexas.gov/stories/s/Austin-Water-2022-Annual-Progress-Report/hc42-psr7). Austin Water itself has a 100-year plan termed ["Water Forward"](https://www.austintexas.gov/sites/default/files/files/Water/WaterForward/Water_Forward_Plan_Report_-_A_Water_Plan_for_the_Next_100_Years.pdf) that the department is using to ensure the city has enough water.
+
+More specifically within Austin when it comes to concerns about water supply we see:
+
+- Multi-family homes are much more water efficient than single family homes
+- A large reduction in the number of gallons of water pumped per capita per day since 2008
+- Water bills continuing to trend down relative to Austin's Median Household Income
+
+On the first point, single family homes contribute to water waste while multi-family homes are more efficient per capita. According to the US Census and data from Austin Water (2019-2020), single family homes use roughly 20% more water per capita than Multi-family homes. Single family homes are simply less efficient with our water resources than multi-family homes. The chart below shows that both single and multi-family homes each made up about half of the population Austin, yet there are large differences in their water consumption.
+
+![Chart showing that despite both Multi-family and Single-family homes making up roughly half the population of Austin, the Single-Family homes use 20% more water than the Multi-Family ones per capita](/media/sfh_more_water_usage_than_mfh.png)
+
+Sources: [US Census 2019 Estimates](https://data.census.gov/table/ACSCP1Y2022.CP04?q=Housing+Units&t=Housing:Occupancy+Characteristics&g=160XX00US4805000), and [Austin Water "Residential Water Consumption" data set](https://data.austintexas.gov/Utilities-and-City-Services/Austin-Water-Residential-Water-Consumption/sxk7-7k6z) (Most recently available 12 month period: 2019-2020)
+
+{{% alert title="According to the EPA" color="primary" %}}
+[Outdoor water use accounts](https://www.epa.gov/watersense/how-we-use-water) for 30 percent of household use yet can be much higher in drier parts of the country and in more water-intensive landscapes
+{{% /alert %}}
+
+The largest waste of water with single family homes is watering lawns full of bermuda grass and other non-native species that needs copious amounts of water to survive Texas summers. This is why we get notices to reduce lawn watering when Texas enters drought periods.
+
+![Example of an Austin stage 2 water restriction notice that encourages watering lawns only once a week in either the early morning or at night](/media/austin_water_reduce_watering_lawns_notice.png)
+
+[Source: Austin Water "Drought Response"](https://www.austintexas.gov/page/drought-response)
+
+So while people may make unfounded claims that our water crisis will get worse with more density, we actually see that the opposite is true:
+
+1. That denser housing is much more efficient, while sprawl is more wasteful
+1. The solution to water concerns is not to ban housing but to restrict wasteful usage of our natural resources
+
+![Chart showing Austin water consumption dropping from 160 gallons per capita per day in 2008 to 120 in 2019 with a bit of an uptick to 130 in 2022.](/media/austin_water_gpcd_reduction_chart.png)
+
+[Austin Water "2022 Annual Progress Report"](https://data.austintexas.gov/stories/s/Austin-Water-2022-Annual-Progress-Report/hc42-psr7)
 
 ### The electric grid can't handle it
 
@@ -118,4 +156,4 @@ There are many people who want housing, including 73% of Austin teachers who say
 
 ### Living in pods, eating bugs, not allowed to leave our zone
 
-Honey we just want to be able to walk to a store, a park, or let kid's play outside safely. This isn't Facebook nor the end times but it will be if we keep doing things the way we have been.
+Honey we just want to be able to walk to a store, a park, or let kids play outside safely. This isn't Facebook nor the end times but it will be if we keep doing things the way we have been.

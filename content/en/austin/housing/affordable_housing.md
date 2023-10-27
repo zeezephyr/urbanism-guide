@@ -13,10 +13,6 @@ Most generally affordable housing can be broken down into two major categories:
 
 Both of these are entirely legitimate concerns and ways to think about housing, so we'll discuss them both and some of the ways in which affordability has been and can continue to be addressed. However it's important to keep in mind that housing affordability is one large piece of a big puzzle that includes cost of transit, utilities, and services.
 
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
-
 ## City of Austin Housing Affordability Initiatives
 
 Housing security is one of several important safety nets that are crucial to a healthy and functioning society.
@@ -103,14 +99,14 @@ are struggling to afford housing. Housing affordability across the US has droppe
 1. Tax structures which disincentivize building housing
 1. [Compatibility restrictions](/austin/housing/compatibility_restrictions)
 1. Unrealistic lot size minimums
-1. [Deed restrictions](/austin/housing/deed_restrictions)
-1. ["Valid Petition" laws](/austin/housing/valid_petitions)
+1. Deed restrictions
+1. "Valid Petition" laws
 
 ### Interest rates on loans
 
 Much like with the student loan crisis the housing affordability crisis is affected by the availability of loans and low interest rates. However this is a very complex topic and outside the scope of a guide to urbanism as it is not something urbanism can solve directly. Within the context of housing urbanism is principally concerned with the supply side of the housing market (ie. the total amount of homes available for people to live in) while interest rates primarily influence the demand side of the housing market (ie. money people have to purchase property). Furthermore the situation our housing market is in, particularly on the limited supply side of housing, has not been seen before in the US and as such what we know historically about interest rates, loans, and housing may no longer apply.
 
-Of course no understanding of the situation we are in is complete without some understanding of the effect interest rates have on housing costs so here's a few resources if you're interested. Just know that this subject is tangential to urbanism rather than central.
+Of course no understanding of the situation we are in is complete without some understanding of the effect interest rates have on housing costs so here's a few resources if you're interested. Just know that this subject is tangential to urbanism rather than central. Urbanism doesn't need to address interest rates to fix the housing crisis.
 
 - [How Interest Rates Affect Property Values](https://www.investopedia.com/articles/mortgages-real-estate/08/interest-rates-affect-property-values.asp)
 - [How Higher Mortgage Rates Have Historically Affected Home Prices](https://www.urban.org/urban-wire/how-higher-mortgage-rates-have-historically-affected-home-prices)

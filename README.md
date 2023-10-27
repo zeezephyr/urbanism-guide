@@ -47,4 +47,4 @@ If you know something about an urbanist issue and want to contribute your knowle
 
 Software modifications under the same license as the original software that was modified.
 
-Content is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. Attribute by linking to TODO: PUT LINK ONCE LIVE.
+Content is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. Attribute by linking to [urbanism.guide](https://urbanism.guide).
