@@ -35,6 +35,8 @@ build:
 # Breadcrumbs off for now because they allow navigation to pages
 # that don't have any text on them
 params:
+  assets:
+    disableFingerprinting: true
   copyright: Content is made available under the Creative Commons CC-BY-NC-SA 4.0 license. Attribute by linking to urbanism.guide
   offlineSearch: true
   ui:
