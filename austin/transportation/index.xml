@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urbanism.guide – Transportation</title>
-    <link>/austin/transportation/</link>
+    <link>https://urbanism-guide.pages.dev/austin/transportation/</link>
     <description>Recent content in Transportation on Urbanism.guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/austin/transportation/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://urbanism-guide.pages.dev/austin/transportation/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Austin: Biking</title>
-      <link>/austin/transportation/biking/</link>
+      <link>https://urbanism-guide.pages.dev/austin/transportation/biking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/austin/transportation/biking/</guid>
+      <guid>https://urbanism-guide.pages.dev/austin/transportation/biking/</guid>
       <description>
         
         
@@ -63,10 +63,10 @@
     
     <item>
       <title>Austin: Highways</title>
-      <link>/austin/transportation/highways/</link>
+      <link>https://urbanism-guide.pages.dev/austin/transportation/highways/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/austin/transportation/highways/</guid>
+      <guid>https://urbanism-guide.pages.dev/austin/transportation/highways/</guid>
       <description>
         
         

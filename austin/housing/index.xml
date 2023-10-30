@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urbanism.guide – Housing</title>
-    <link>/austin/housing/</link>
+    <link>https://urbanism-guide.pages.dev/austin/housing/</link>
     <description>Recent content in Housing on Urbanism.guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/austin/housing/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://urbanism-guide.pages.dev/austin/housing/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Austin: Affordable Housing</title>
-      <link>/austin/housing/affordable_housing/</link>
+      <link>https://urbanism-guide.pages.dev/austin/housing/affordable_housing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/austin/housing/affordable_housing/</guid>
+      <guid>https://urbanism-guide.pages.dev/austin/housing/affordable_housing/</guid>
       <description>
         
         
@@ -155,10 +155,10 @@ are struggling to afford housing. Housing affordability across the US has droppe
     
     <item>
       <title>Austin: Compatibility Restrictions</title>
-      <link>/austin/housing/compatibility_restrictions/</link>
+      <link>https://urbanism-guide.pages.dev/austin/housing/compatibility_restrictions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/austin/housing/compatibility_restrictions/</guid>
+      <guid>https://urbanism-guide.pages.dev/austin/housing/compatibility_restrictions/</guid>
       <description>
         
         
