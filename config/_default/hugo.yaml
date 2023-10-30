@@ -1,4 +1,4 @@
-baseURL: 'https://urbanism-guide.pages.dev/'
+baseURL: '/'
 relativeURLs: true
 languageCode: 'en-us'
 title: 'Urbanism.guide'
