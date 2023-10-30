@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>/austin/get_involved/</loc></url><url><loc>/getting_started/</loc></url><url><loc>/getting_started/what_is_urbanism/</loc></url><url><loc>/appendix/nimby-rebuttals/</loc></url><url><loc>/appendix/useful_links/</loc></url><url><loc>/appendix/glossary/</loc></url><url><loc>/austin/housing/</loc></url><url><loc>/austin/transportation/</loc></url><url><loc>/austin/</loc></url><url><loc>/austin/housing/affordable_housing/</loc></url><url><loc>/appendix/</loc></url><url><loc>/austin/transportation/biking/</loc></url><url><loc>/categories/</loc></url><url><loc>/austin/housing/compatibility_restrictions/</loc></url><url><loc>/austin/transportation/highways/</loc></url><url><loc>/tags/</loc></url><url><loc>/</loc></url><url><loc>/getting_started/what_urbanists_want/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/austin/get_involved/</loc>
+  </url><url>
+    <loc>/getting_started/</loc>
+  </url><url>
+    <loc>/getting_started/what_is_urbanism/</loc>
+  </url><url>
+    <loc>/appendix/nimby-rebuttals/</loc>
+  </url><url>
+    <loc>/appendix/useful_links/</loc>
+  </url><url>
+    <loc>/appendix/glossary/</loc>
+  </url><url>
+    <loc>/austin/housing/</loc>
+  </url><url>
+    <loc>/austin/transportation/</loc>
+  </url><url>
+    <loc>/austin/</loc>
+  </url><url>
+    <loc>/austin/housing/affordable_housing/</loc>
+  </url><url>
+    <loc>/appendix/</loc>
+  </url><url>
+    <loc>/austin/transportation/biking/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/austin/housing/compatibility_restrictions/</loc>
+  </url><url>
+    <loc>/austin/transportation/highways/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/getting_started/what_urbanists_want/</loc>
+  </url>
+</urlset>
