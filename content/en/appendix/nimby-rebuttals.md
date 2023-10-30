@@ -74,7 +74,7 @@ Car dependence has resulted in yearly costs of:
 - 40,000 deaths on US roads. 40,000 funerals. Countless devastated family members and friends
 - [4,000,000,000 pounds of microplastics](/austin/transportation/highways)
 
-The solution then is to build infrastructure for [public transit](/austin/transportation/public_transit), [biking](/austin/transportation/biking), and walking. Check those articles to learn more.
+The solution then is to build infrastructure for public transit, [biking](/austin/transportation/biking), and walking. Check those articles to learn more.
 
 {{% alert title="Did you know?" color="primary" %}}
 50% of all trips made in the US are 3 miles or less. These are easily reachable for most people with an e-bike or manual bike provided the infrastructure is available. [Learn more](/austin/transportation/biking).
