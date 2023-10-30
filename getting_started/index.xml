@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urbanism.guide – Getting Started</title>
-    <link>https://urbanism-guide.pages.dev/getting_started/</link>
+    <link>/getting_started/</link>
     <description>Recent content in Getting Started on Urbanism.guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://urbanism-guide.pages.dev/getting_started/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/getting_started/index.xml" rel="self" type="application/rss+xml" />
     
     
       
