@@ -67,3 +67,4 @@ jobs:
         with:
           publish_branch: production
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          force_orphan: true
