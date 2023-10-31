@@ -1,7 +1,6 @@
-baseURL: 'https://staging.urbanism-guide.pages.dev/'
+baseURL: 'https://dev.urbanism-guide.pages.dev/'
 languageCode: 'en-us'
 title: 'Urbanism.guide'
-theme: "docsy"
 
 module:
   proxy: direct
