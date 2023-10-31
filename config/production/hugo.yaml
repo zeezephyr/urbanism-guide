@@ -1,2 +1,3 @@
 baseURL: 'https://urbanism-guide.pages.dev/'
+relativeURLs: true
 enableRobotsTXT: false
