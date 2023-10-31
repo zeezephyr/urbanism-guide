@@ -1,5 +1,4 @@
-baseURL: 'https://staging.urbanism-guide.pages.dev/'
-# relativeURLs: true
+baseURL: 'https://dev.urbanism-guide.pages.dev/'
 languageCode: 'en-us'
 title: 'Urbanism.guide'
 
