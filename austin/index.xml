@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urbanism.guide: Development Site – Austin Urbanism</title>
+    <link>https://staging.urbanism-guide.pages.dev/austin/</link>
+    <description>Recent content in Austin Urbanism on Urbanism.guide: Development Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://staging.urbanism-guide.pages.dev/austin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
