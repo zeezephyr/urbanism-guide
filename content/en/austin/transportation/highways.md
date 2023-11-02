@@ -56,12 +56,6 @@ In addition to CAMPO's lack of proper representation for Austin it also actively
 - Holding all meetings at 2pm on weekdays without an option to dial-in. Effectively excluding anyone who works a daytime job for a living.
 - Requiring all speakers to attend in person; no option to dial in to comment.
 
-### CAMPO Funding
-
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
-
 ## Texas Transportation Commission (TTC)
 
 The final piece to the puzzle of how transportation gets built in is the TTC. They are a small body of 5 political appointees that make 10 year plans for CAMPO and TxDOT to fund and implement.
