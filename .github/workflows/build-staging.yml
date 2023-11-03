@@ -67,4 +67,3 @@ jobs:
         with:
           publish_branch: staging
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          force_orphan: true

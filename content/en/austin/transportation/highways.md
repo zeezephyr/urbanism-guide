@@ -4,7 +4,7 @@ icon: "icon twa-car"
 description: >
     Highways are deadly, ugly, and environmentally disastrous. They are one of several pieces of fossil fuel infrastructure that must be extensively reformed and in many cases removed to ensure our future.
 ---
-TxDOT, CAMPO, and the TTC are the three organizations and political bodies that are responsible for our mess of deadly highways. TTC is a state-wide body of 5 political appointees that plans and authorizes 10 year transportation plans (aka UTPs) at a state level. These plans then get passed to TxDOT who must work with CAMPO to identify projects, funding, and finally approve plans that achieve the goals of the UTP. Collectively they represent a destructive, unrepresentative, and undemocratic force of will of the oil and gas industry to carve up our cities and environment for profit.
+TxDOT, CAMPO, and the TTC are the three organizations and political bodies that are responsible for our mess of deadly highways. TTC is a state-wide body of 5 political appointees that plans and authorizes 10 year transportation plans (aka UTPs) at a state level. These plans then get passed to TxDOT who must work with CAMPO to identify projects, funding, and finally approve plans that achieve the goals of the UTP. CAMPO approves federal funding for TxDOT highway projects. Collectively they represent a destructive, unrepresentative, and undemocratic force of will of the oil and gas industry to carve up our cities and environment for profit.
 
 ## Preface: The Cost of Highways and Roads
 
