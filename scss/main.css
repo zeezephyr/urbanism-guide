@@ -25495,7 +25495,9 @@ div.drawioframe {
   padding-left: 1.5rem; }
 
 .td-content .img-fluid, .td-content img {
-  box-shadow: rgba(123, 81, 148, 0.4) 2px 1px 2px 2px, rgba(30, 19, 36, 0.4) 1px 2px 3px 2px; }
+  box-shadow: rgba(123, 81, 148, 0.4) 2px 1px 2px 2px, rgba(30, 19, 36, 0.4) 1px 2px 3px 2px;
+  display: block;
+  margin: 0 auto; }
 
 h2 > a > svg, .h2 > a > svg,
 h3 > a > svg,
