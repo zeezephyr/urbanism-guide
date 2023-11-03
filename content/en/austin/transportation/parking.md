@@ -25,6 +25,17 @@ The end result being that there are now an estimated [700 million to 2 billion p
 
 While 17% of a city's downtown core is certainly a huge amount, Austin performs better than Houston, Dallas, and San Antonio where, according to Axios, 25% of their downtowns are dedicated to storing cars. The national average is 20%!
 
+Also worth keeping in mind that these rules do not eliminate parking, notably:
+
+- Residential and Commercial buildings can still build the parking they believe they need
+- Federal standards around parking accessibility for people with disabilities will still be kept
+- We have a heck of a lot of parking already
+- Austin's Strategic Mobility Plan intends to have net no additional driving by 2039 by encouraging other forms of transportation for short distances
+
+{{% alert title="🚲" color="primary" %}}
+50% of trips in the US are 3 miles or less. As long as the infrastructure is there this is a quick 10 to 15 minute ride on an e-Bike or manual bike. Learn more about the benefits of biking, the city's plans, and e-Bike discounts in our [article on biking](/austin/transportation/biking).
+{{% /alert %}}
+
 ## Impacts of Parking Mandates
 
 - **Large [added expense to housing costs](https://services.austintexas.gov/edims/document.cfm?id=417776)**: According to Austin's Housing & Planning department each parking spot in Austin adds $200/month to rent and $20,000-$60,000 per space in parking structures. These significant yet hidden costs add to displacement pressure in our cities, contributing to the further pricing out of people.
