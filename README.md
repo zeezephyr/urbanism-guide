@@ -1,6 +1,6 @@
 # Welcome
 
-This is the urbanism dot guide repository. A current work in progress that should get its first release in the next few months.
+This is the urbanism dot guide repository.
 
 This guide is intended to be a way to get those mildly interested in any one or more urbanist issues further along in their journeys.
 
