@@ -1,4 +1,4 @@
-{{ $css := resources.Get "scss/main.scss" | toCSS | resources.PostCSS }} 
+{{/*  {{ $css := resources.Get "scss/main.scss" | toCSS | resources.PostCSS }} 
 {{ if hugo.IsProduction }} 
     {{ $css = $css | fingerprint | resources.PostProcess }} 
 {{ end }}
@@ -9,4 +9,4 @@
   {{ if hugo.IsProduction -}} 
     integrity="{{ $css.Data.Integrity }}"
   {{- end }}
-/>
+/>  */}}
