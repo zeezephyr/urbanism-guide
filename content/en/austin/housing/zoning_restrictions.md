@@ -30,3 +30,7 @@ Just a few years later Austin would pen its first planning document in 1928, ["A
 > And black Austinites would be shunted into a new “negro district.”
 >
 > [Source: "The Problem We Still Live With" by Ryan Puzycki](https://puzycki.substack.com/p/the-problem-we-still-live-with)
+
+...
+
+And thus we find ourselves with the result: two Austins. One of which has benefited immensely from repeatedly pushing everything it doesn't want to the East side and one that has suffered it at every turn. When anti-housing advocates ask to only upzone the East side or to build further and further away they ask to simply continue the same segregationist policies that they've practiced for nearly 100 years.
