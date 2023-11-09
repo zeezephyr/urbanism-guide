@@ -33,4 +33,4 @@ Just a few years later Austin would pen its first planning document in 1928, ["A
 
 ...
 
-And thus we find ourselves with the result: two Austins. One of which has benefited immensely from repeatedly pushing everything it doesn't want to the East side and one that has suffered it at every turn. When anti-housing advocates ask to only upzone the East side or to build further and further away they ask to simply continue the same segregationist policies that they've practiced for nearly 100 years.
+And thus we find ourselves with the result: two Austins. One of which has benefited immensely from repeatedly pushing everything it doesn't want to the East side and one that has suffered this perverse proclivity at every turn. When anti-housing advocates ask to only upzone the East side or to build further and further away they ask to simply continue the same segregationist policies that they city has practiced for nearly 100 years.
