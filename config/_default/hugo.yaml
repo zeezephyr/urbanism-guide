@@ -1,6 +1,6 @@
 baseURL: 'https://staging.urbanism-guide.pages.dev/'
 languageCode: 'en-us'
-title: 'Urbanism.guide'
+title: 'Your guide to urbanism'
 
 module:
   proxy: direct
