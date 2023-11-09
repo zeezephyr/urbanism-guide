@@ -48,7 +48,7 @@ Austin's 2022 population of 974,447 (2022; US Census Estimate) makes up 39% of t
 
 Further reducing Ausin's influence and proper representation within CAMPO is the Transportation Policy Board Executive Committee. This 9 member board is the body that makes recommendations to the full TPB board about plans, projects, and issues. Not a single member of this committee is from Austin.
 
-There doesn't yet exist a movement in Austin to fix CAMPO so that it is fairly representative or so that Austin can have its own MPO. However similar efforts have been taken up in neighboring cities like the [Fair For Houston initiative](https://www.fairforhouston.com/). A similar initiative could be done in Austin.
+There doesn't yet exist a movement in Austin to fix CAMPO so that it is fairly representative or so that Austin can have its own MPO. However similar efforts have been taken up in neighboring cities like where the [Fair For Houston initiative](https://www.fairforhouston.com/) passed with 65% voter approval in November 2023. A similar initiative could be done in Austin.
 
 In addition to CAMPO's lack of proper representation for Austin it also actively excludes members of the public by:
 
