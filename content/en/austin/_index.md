@@ -11,11 +11,11 @@ Austin, like all cities and towns, is unique in its culture, laws, location, gov
 In this section we will explain how Housing and Transportation look in Austin, what is being done to improve them, and what challenges remain. Both the good, the bad, and the nonsense. They include:
 
 - [Affordable Housing](/austin/housing/affordable_housing)
+- [Zoning Restrictions](/austin/housing/zoning_restrictions)
 - [Biking](/austin/transportation/biking)
 - [Compatibility Restrictions](/austin/housing/compatibility_restrictions)
 - [Highways](/austin/transportation/highways)
 - And more. Check out the side bar for the full list.
 
 <!-- - [Public Transit](/austin/transportation/public_transit) -->
-<!-- - [Restrictive Zoning](/austin/housing/restrictive_zoning) -->
 <!-- - [Vision Zero](/austin/transportation/vision_zero) -->
