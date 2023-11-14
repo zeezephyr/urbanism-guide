@@ -25,23 +25,25 @@ In the months prior to the 1917 Supreme Court decision the racist and wealthy wi
 
 A New York City based organization called the Fifth Avenue Association created a campaign that would take racial zoning and make it much more insidious. Rather than excluding based on race or ethnicity the new laws could exclude based on attributes more common to Black, Brown, and White immigrant Americans.
 
-The first such campaign for this new kind of zoning was termed "Save New York". At the time there were many garment factories on 5th Avenue. The factories themselves were not really an issue to the Fifth Avenue Association and the White New Yorkers. Instead the issue was that garment workers were primarily Jewish and Italian immigrants. If they could legislate away the garment industry they could legislate away these ethnic groups.
+The first such campaign for this new kind of zoning was termed "Save New York" and it targeted garment factories on 5th Avenue. However the factories themselves were not really an issue to the Fifth Avenue Association and White New Yorkers. Instead the issue was that garment workers were primarily Jewish and Italian immigrants. If they could legislate away the garment industry they could legislate away these ethnic groups.
+
+The campaign's goals unfortunately succeeded all too well and the first modern [Euclidean zoning](https://en.wikipedia.org/wiki/Zoning_in_the_United_States#Euclidean) law was enacted in New York on July 25, 1916.
 
 > At the opening of the 20th century, tens of thousands of garment workers began to clog the streets of Fifth Avenue, strolling and window-shopping, and meeting informally to discuss the vagaries of the trade. For property and business owners along Fifth Avenue, however, the workers constituted nothing short of an immigrant horde that had to be stopped.
 >
 > [Source: "A Stitch in Time: A History of New York's Garment District" by Gabriel Montero](https://garmentdistrict.nyc/sites/default/files/admin-files/2022-04/GD_HistoryBook-ONLINE-lo.pdf)
 
-The campaign's goals unfortunately succeeded all too well and the first modern [Euclidean zoning](https://en.wikipedia.org/wiki/Zoning_in_the_United_States#Euclidean) law was enacted in New York on July 25, 1916.
+This new style of zoning quickly spread throughout the US. In fact the first Supreme Court case concerning Euclidean zoning, [Euclid v. Amber](https://en.m.wikipedia.org/wiki/Village_of_Euclid_v._Ambler_Realty_Co.), was heard in 1926. The case concerned the Village of Euclid's new zoning law designed to keep "industrial Cleveland" from changing the "character of the village". While a lower court determined that Euclid's zoning law was unconstitutional the Supreme Court ultimately sided with the village and upheld the exclusionary zoning. Now with a Supreme Court decision similar use-based zoning towards discriminatory ends was further emboldened.
 
 {{% alert title="The character of the neighborhood" color="primary" %}}
 Be wary of calls to "Save" neighborhoods and cities. To preserve property values. To protect "neighborhood character".
 {{% /alert %}}
 
-This new style of zoning quickly spread throughout the US. In fact the first Supreme Court case, [Euclid v. Amber](https://en.m.wikipedia.org/wiki/Village_of_Euclid_v._Ambler_Realty_Co.), was heard in 1926. The case concerned the Village of Euclid's new zoning law designed to keep "industrial Cleveland" from changing the "character of the village". While a lower court determined that Euclid's zoning law was unconstitutional the Supreme Court ultimately sided with the village and upheld the exclusionary zoning. Now with a Supreme Court decision similar use-based zoning towards racist ends was only further emboldened.
-
 ### A City Plan for Austin
 
-Just a few years later Austin penned its first planning document in 1928, ["A City Plan for Austin, Texas"](https://repositories.lib.utexas.edu/handle/2152/65853?show=full) that included bountiful amenities for its White residents, and segregation for its Black residents who would be pushed to the East side and then forgotten about. According to ["The Color of Law" by Richard Rothstein](https://www.litcharts.com/lit/the-color-of-law) their roads would be left less paved, their sewers unmaintained and clogged, and their bus routes suspended in the summer.
+Just a few years later Austin penned its first planning document in 1928, ["A City Plan for Austin, Texas"](https://repositories.lib.utexas.edu/handle/2152/65853?show=full) that included bountiful amenities for its White residents, and segregation for its Black residents who would be pushed to the East side and then forgotten about. According to ["The Color of Law" by Richard Rothstein](https://www.litcharts.com/lit/the-color-of-law) their roads were left less paved, their sewers unmaintained and clogged, and their bus routes suspended in the summer.
+
+Over time more approaches to zoning were devised such as surreptitious [increases to minimum lot sizes](https://www.austinpolitics.net/a-big-win-for-small-lots/) from none up until 1929 to 3,000 square feet in 1930, then 3,500 in 1941, and a whopping 5,750 square feet in 1946. Lot sizes were then paired with the creation of single family zoning, setbacks, and so on. Each of these policies serving to further exclude Black and Brown Americans from home ownership by making it prohibitively expensive for them to own property within White neighborhoods.
 
 > Streets would be widened and paved to account for increasing automobile use (Austinites were already complaining about traffic in 1928). Boulevards would be sculpted and lined with trees. Playgrounds and parks would be built within a half-mile walk of every person in the city [...]
 >
@@ -49,11 +51,9 @@ Just a few years later Austin penned its first planning document in 1928, ["A Ci
 >
 > [Source: "The Problem We Still Live With" by Ryan Puzycki](https://puzycki.substack.com/p/the-problem-we-still-live-with)
 
-Over time more approaches to zoning were devised such as surreptitious [increases to minimum lot sizes](https://www.austinpolitics.net/a-big-win-for-small-lots/) from none up until 1929 to 3,000 square feet in 1930, then 3,500 in 1941, and a whopping 5,750 in 1946. Lot sizes were then paired with the creation of single family zoning, setbacks, and so on. Each of these policies enacted with the singular goal of excluding Black and Brown Americans from home ownership by making it prohibitively expensive for them to own property within White neighborhoods.
+And thus we find ourselves with the result: two Austins. One of which has benefited immensely from repeatedly pushing people out and the other which has repeatedly suffered from being pushed.
 
-And thus we find ourselves with the result: two Austins. One of which has benefited immensely from repeatedly pushing everything it doesn't want to the East side. While the East side has simultaneously suffered this perverse proclivity at every turn.
-
-When anti-housing advocates ask to preserve single family zoning, to put all changes on the East side, and to build further and further away they ask to continue the same segregationist policies that the city has practiced for nearly 100 years.
+When anti-housing advocates ask to preserve single family zoning, to put all new housing on the East side, and to build further and further away they ask to continue the same segregationist policies that the city has practiced for nearly 100 years.
 
 ## Austin's Present Day Zoning
 
