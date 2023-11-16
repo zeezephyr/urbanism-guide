@@ -15,4 +15,6 @@ Speaking broadly, urbanism focuses on:
 3. Producing places to live that are human scale, and human focused.
 4. Creating fair laws, and removing or modifying unfair laws to create equitable outcomes for all.
 
-Urbanism is a deep rabbit hole with many niches and by reading through this guide we hope you walk away with a deeper understanding of what urbanism is, what it isn't, who it helps, and how you can get involved.
+Urbanism is a deep rabbit hole with many niches and by reading through this guide we hope you walk away with a deeper understanding of what urbanism is, what it isn't, how it helps, and how you can get involved.
+
+Pick a topic from the menu that you might be interested in and get to reading.

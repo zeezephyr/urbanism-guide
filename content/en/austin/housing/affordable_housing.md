@@ -42,7 +42,7 @@ Under Type 1 at least half of all units built must be affordable. For rentals th
 
 Under Type 2 at least three quarters of all units must be affordable and meet all Type 1 requirements. In addition they must locate the building within a quarter-mile of a transit corridor and designate at least 10% of affordable housing for those earning under 30% MFI ($26,500).
 
-As of 2023 over 3,000 units of housing have been built or are under construction with this program with another 3,000 units in the planning stages. Incredibly 80% of all planned and built housing units under this plan meet the affordability requirements of AU, exceeding the minimums set in place by the program.
+As of 2023 over 480 units of housing have been built, 2800 are under construction, and a further 2,800 units are in the planning stages. Incredibly 80% of all planned and built housing units under this plan meet the affordability requirements of AU, exceeding the minimums set in place by the program itself.
 
 ### Vertical Mixed Use Zoning (VMU1 & VMU2)
 

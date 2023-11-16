@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 description: >
-  This guide seeks to be a getting started resource for those interested in urbanism.
+  The guide aims to serve as part historical record, part tutorial, and part HOWTO on getting involved with whichever aspects of urbanism are intriguing to you.
 
 cascade:
   - type: "docs"
@@ -10,7 +10,9 @@ cascade:
     github_repo: 'https://github.com/zeezephyr/urbanism-guide'
     github_branch: 'dev'
 ---
-We are here for those who understand we are people and we do not end at the houses we live in nor the vehicles we occupy. For those who want neighbors and livable cities where going outside is pleasant, safe, healthy, and stimulating. Where people of all ages and abilities can have easy access to their local world.
+This guide is here for those who understand we are people and we do not end at the houses we live in nor the vehicles we occupy. It is for those who want neighbors and livable cities where going outside is pleasant, safe, healthy, and stimulating.
+
+We write this guide as advocacy so that people of any age, ethnicity, income, background, and physical ability can have easy access to their local world. Our desire is to transform our cities, neighborhoods, and towns into diverse and human-centered places that are inclusive of all people and allow them to thrive.
 
 > What is invariant is the aspiration to rediscover the lost human community, and this cannot take place through a reestablishment of the past, but only through new creation.
 >
