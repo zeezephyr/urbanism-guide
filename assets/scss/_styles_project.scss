@@ -74,7 +74,7 @@ $size-map: (
 
 // Make a smaller footer
 .td-footer {
-  min-height: 2rem;
+  min-height: 2vh;
   padding-top: 1rem;
 }
 
@@ -124,5 +124,45 @@ h6 > a > svg:hover {
 @media (min-width: 992px) {
   div > iframe[title="YouTube Video"] {
     max-width: 80%;
+  }
+}
+
+// Janky footer selection to fix it up a bit
+.td-footer {
+  padding-top: 0;
+}
+
+footer div.col-6:nth-child(1) {
+  display: none;
+}
+
+footer .td-footer__copyright-etc {
+  flex: 80%;
+}
+
+footer div.col-6:nth-child(2) {
+  flex: content;
+}
+
+footer .td-footer__links-item {
+  line-height: normal;
+  margin-bottom: 0;
+}
+
+footer {
+  position: sticky;
+  bottom: 0;
+}
+
+// Make left sidebar a little wider on Desktop
+@media (min-width: 1200px) {
+  .td-sidebar {
+    width: 20%;
+  }
+  .td-sidebar-toc {
+    width: 20%;
+  }
+  main.col-12 {
+    width: 60%;
   }
 }
