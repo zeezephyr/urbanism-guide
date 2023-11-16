@@ -34,7 +34,10 @@ If you know something about an urbanist issue and want to contribute your knowle
 ## If you know how to use Github
 
 1. Do the same but make a PR against the `dev` branch and I'll forever be your friend :smile:
-1. (Optional) [Install Docsy](https://www.docsy.dev/docs/get-started/) if you want to help improve visuals
+1. [Install Hugo](https://gohugo.io/installation/)
+1. `git clone https://github.com/zeezephyr/urbanism-guide.git`
+1. `npm ci` (If you have nvm installed then run `nvm use` first)
+1. Start a server for local development: `hugo server`
 
 ## Powered By
 
