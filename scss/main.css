@@ -18838,6 +18838,7 @@ h6 > a > svg:hover,
     max-width: 80%; } }
 
 footer {
+  position: sticky;
   bottom: 0; }
 
 .td-footer {
