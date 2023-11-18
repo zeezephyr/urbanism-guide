@@ -129,7 +129,7 @@ h6 > a > svg:hover {
 
 // Janky footer selection to fix it up a bit
 footer {
-  // position: sticky;
+  position: sticky;
   bottom: 0;
 }
 
@@ -156,11 +156,6 @@ footer div.col-6:nth-child(2) {
   line-height: normal;
   margin-bottom: 0;
 }
-
-// .fa-brands {
-//   flex:content;
-//   display: inline-flex;
-// }
 
 @media (max-width: 992px) {
   .td-footer__copyright-etc span {
