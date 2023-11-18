@@ -18867,6 +18867,10 @@ footer div.col-6:nth-child(2) {
     content: "Creative Commons CC-BY-NC-SA 4.0 license. Link urbanism.guide to attribute.";
     overflow: hidden; } }
 
+@media (max-width: 600px) {
+  .td-footer__copyright-etc span:after {
+    content: "License: CC-BY-NC-SA 4.0"; } }
+
 @media (min-width: 1200px) {
   .td-sidebar {
     width: 20%; }
