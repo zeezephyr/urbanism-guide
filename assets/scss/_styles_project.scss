@@ -128,6 +128,11 @@ h6 > a > svg:hover {
 }
 
 // Janky footer selection to fix it up a bit
+footer {
+  position: sticky;
+  bottom: 0;
+}
+
 .td-footer {
   padding-top: 0;
 }
@@ -136,22 +141,38 @@ footer div.col-6:nth-child(1) {
   display: none;
 }
 
-footer .td-footer__copyright-etc {
+.td-footer__copyright-etc {
   flex: 80%;
+  font-size: small;
+  text-align: left !important;
+  // display: inline-flex;
 }
 
 footer div.col-6:nth-child(2) {
   flex: content;
 }
 
-footer .td-footer__links-item {
+.td-footer__links-item {
   line-height: normal;
   margin-bottom: 0;
 }
 
-footer {
-  position: sticky;
-  bottom: 0;
+@media (max-width: 992px) {
+  .td-footer__copyright-etc span {
+    font-size: 0;
+  }
+
+  .td-footer__copyright-etc span:after {
+    font-size: small;
+    content: "Creative Commons CC-BY-NC-SA 4.0 license. Link urbanism.guide to attribute.";
+    overflow: hidden;
+  }
+}
+
+@media (max-width: 600px) {
+  .td-footer__copyright-etc span:after {
+    content: "License: CC-BY-NC-SA 4.0";
+  }
 }
 
 // Make left sidebar a little wider on Desktop
