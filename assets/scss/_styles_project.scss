@@ -169,6 +169,12 @@ footer div.col-6:nth-child(2) {
   }
 }
 
+@media (max-width: 600px) {
+  .td-footer__copyright-etc span:after {
+    content: "License: CC-BY-NC-SA 4.0";
+  }
+}
+
 // Make left sidebar a little wider on Desktop
 @media (min-width: 1200px) {
   .td-sidebar {
