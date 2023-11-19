@@ -60,7 +60,7 @@ $size-map: (
   margin: 0;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 992px) {
   .pageinfo {
     max-width: 100%;
     margin: 0;
@@ -145,7 +145,6 @@ footer div.col-6:nth-child(1) {
   flex: 80%;
   font-size: small;
   text-align: left !important;
-  // display: inline-flex;
 }
 
 footer div.col-6:nth-child(2) {
@@ -158,6 +157,10 @@ footer div.col-6:nth-child(2) {
 }
 
 @media (max-width: 992px) {
+  .td-footer {
+    position: static;
+  }
+
   .td-footer__copyright-etc span {
     font-size: 0;
   }
@@ -166,12 +169,6 @@ footer div.col-6:nth-child(2) {
     font-size: small;
     content: "Creative Commons CC-BY-NC-SA 4.0 license. Link urbanism.guide to attribute.";
     overflow: hidden;
-  }
-}
-
-@media (max-width: 600px) {
-  .td-footer__copyright-etc span:after {
-    content: "License: CC-BY-NC-SA 4.0";
   }
 }
 
