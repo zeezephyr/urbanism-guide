@@ -20,6 +20,6 @@ We write this guide as advocacy so that people of any age, ethnicity, income, ba
 
 If this intrigues you then keep reading to understand what urbanism is and how you can help further its various causes to improve our lives.
 
-We are based in Austin, Texas and as such have a good deal of material specifically about urbanism in Austin and the USA. However we aim to provide plenty of great info here no matter where in the world that you are. So keep on reading!
+We are based in Austin, Texas and as such have a good deal of material specifically about urbanism in Austin. However there's plenty of information that applies to the USA and beyond. For example, we cover [biking](/austin/transportation/biking) specifics within Austin but we've got info in there applicable to anywhere. Did you know that half of all trips are easily bikeable, and 80% can be done an an ebike? So keep on reading!
 
 A good place to start is [What is Urbanism?](/getting_started/what_is_urbanism)
