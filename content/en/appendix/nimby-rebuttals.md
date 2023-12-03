@@ -136,9 +136,19 @@ Parking, large roads, and empty spaces create heat islands. Taller buildings may
 {{<contribute>}}
 {{% /pageinfo %}}
 
-### More housing is bad for the environment
+### Dense housing is bad for the environment
 
-It should go without saying but people need a place to live. They will need homes regardless. So questions on environmentalism boil down to efficiency and where and how homes are built rather than if we should build.
+It should go without saying but people need a place to live. They will need homes regardless. So questions on environmentalism boil down to efficiency and where and how homes are built rather than if we should build. There is no option where we do not provide enough housing for people who need it.
+
+So we have two overarching options: encourage urban sprawl, or encourage urban infill. In sprawl, as we practice today, our land development codes push where people live further and further out from work, school, recreation, family, and friends. Encouraging urban infill does the opposite, bringing the physical location of these things closer.
+
+The data is clear that urban infill is better for the environment than sprawl. In 2018, researchers at California, Berkeley [analyzed 700 cities](https://www.cogitatiopress.com/urbanplanning/article/view/1218) and found that the single biggest impact that local governments can have on reducing greenhouse gas emissions is to increase urban infill (ie. housing in urbanized spaces). Mind you we are not talking about turning every city into the center of Manhattan. Simply locating housing closer to people's needs and daily activities can have a massive impact.
+
+Furthermore this study shows that urban infill in general is one of the biggest levers that local governments have in addressing climate change. Except for heating electrification all other local policies have little to moderate impact and depend on state and federal intervention alongside local government action. But not housing. Housing is the big lever for local governments. Austin is only getting hotter.
+
+![A chart showing that in San Francisco the biggest opportunity to reduce greenhouse gases is urban infill](/media/berkley-urban-infill-san-francisco.png)
+
+[Source: University of California, Berkeley](https://coolclimate.berkeley.edu/ca-scenarios/index.html)
 
 {{% pageinfo color="info" %}}
 {{<contribute>}}
