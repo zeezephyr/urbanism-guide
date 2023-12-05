@@ -64,7 +64,7 @@ VMU1 has thus far succeeded in creating over 100 new buildings under this zoning
 
 ### Home Options for Middle-income Empowerment (HOME)
 
-One of the key hindrances to housing affordability is the availability of housing. Within Austin, and most US cities, supply has been artificially restricted for over half a century. Today Austin has a housing code (aka Land Development Code) that was last updated in the 1980s with the idea that it's important to keep property sizes very large, and housing very limited, so that only those with high means can enjoy living here.
+One of the key hindrances to housing affordability is the availability of housing. Within Austin, and most US cities, supply has been artificially restricted for at least a century. Today Austin has a housing code (aka Land Development Code; LDC) that was last updated in the 1980s and very large lot size minimums that were last updated in the 1940s. The history of which we cover in our article on [euclidean zoning restrictions](/austin/housing/zoning_restrictions).
 
 [HOME is an initiative](https://services.austintexas.gov/edims/document.cfm?id=411485) very much representative of today's generational housing conflict. It's currently (as of Oct 2023) being considered by City Council with overwhelming support while simultaneously being the target of anti-housing activists.
 
@@ -72,6 +72,7 @@ HOME allows for the building of more housing and better neighborhoods by:
 
 - Reducing residential minimum lot sizes from 5,750 sq ft to 2,500 sq ft.
 - Allowing up to 3 units of housing to be built on a lot without additional zoning changes to the lot
+- Making various other adjustments to the LDC that you can read about on [atxhomecoalition.com](https://www.atxhomecoalition.com/)
 
 Quite literally the city council wants to do what urbanists have been asking of it. Enable more neighborhoods to follow the design principles of livable, walkable, nice areas. Transforming what is currently a limited luxury for the well off of our city into something that everyone who lives in Austin can enjoy. This doesn't mean all of our neighborhoods will end up looking like any specific place, just that we'll have more flexibility in what we build and who we build it for.
 
