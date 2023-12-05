@@ -64,7 +64,7 @@ VMU1 has thus far succeeded in creating over 100 new buildings under this zoning
 
 ### Home Options for Middle-income Empowerment (HOME)
 
-One of the key hindrances to housing affordability is the availability of housing. Within Austin, and most US cities, supply has been artificially restricted for at least a century. Today Austin has a housing code (aka Land Development Code; LDC) that was last updated in the 1980s and very large lot size minimums that were last updated in the 1940s. The history of which we cover in our article on [euclidean zoning restrictions](/austin/housing/zoning_restrictions).
+One of the key hindrances to housing affordability is the availability of housing. Within Austin, and most US cities, supply has been artificially restricted for at least a century. Today Austin has a housing code (aka Land Development Code; LDC) that was last updated in the 1980s along with very large lot size minimums that were last updated in the 1940s; the history of which we cover in our article on [euclidean zoning restrictions](/austin/housing/zoning_restrictions).
 
 [HOME is an initiative](https://services.austintexas.gov/edims/document.cfm?id=411485) very much representative of today's generational housing conflict. It's currently (as of Oct 2023) being considered by City Council with overwhelming support while simultaneously being the target of anti-housing activists.
 
