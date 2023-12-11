@@ -2,10 +2,14 @@
 title: "Parking Mandates"
 icon: "icon twa-p-button"
 description: >
-    Parking has long dominated our cities, creating heat islands and straining housing. Learn how this happened, and what's being done to fix it.
+    Parking has long dominated our cities, creating heat islands and straining housing. Learn more about this issue that still plagues our cities.
 ---
 
 ## A Brief History of Parking Mandates
+
+{{% alert title="Mandates Eliminated!" color="primary" %}}
+On November 2nd, 2023 Austin made the historic step of [removing parking mandates](https://communityimpact.com/austin/north-central-austin/development/2023/11/02/austin-eliminates-parking-requirements-for-new-developments/) and is now the largest city in the country to do so. This was only possible thanks to many advocates [getting involved](/austin/get_involved)!
+{{% /alert %}}
 
 Parking mandates (aka parking minimums) were first created in the 1950s as a measure to provide parking for America's then fledgling car culture. However, according to the Bureau of Transportation Statistics (BTS), these mandates are [based on limited and highly inaccurate data](https://www.bts.gov/archive/publications/journal_of_transportation_and_statistics/volume_06_number_01/paper_01/index) published in a report called "Parking Generation" by the Institute of Transportation Engineers (ITE). Data in this report is allowed to be based on sample sizes of just 4. This means that a "study" could observe 4 total car trips and be included as bona fide evidence of exactly how much parking an entire city needs. If you have an understanding of statistics you should read the rest of the BTS's analysis on this subject because the methodology is much worse than this tiny sample size.
 
