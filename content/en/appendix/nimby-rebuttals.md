@@ -134,6 +134,8 @@ Parking, large roads, and empty spaces create heat islands.
 
 This depends on where you cut down the tree(s). In practical, relative terms, removing a handful of trees on private property in order to build housing within a city will always be significantly lower impact than doing it elsewhere. Places immediately outside the City of Austin have seen substantial tree cover loss as our surrounding hillside and forests are cut down in order to make way for sprawl. Along with fires, storm damage, and other contributors to tree cover loss; many of which have direct and indirect causes related to urban sprawl and human activity.
 
+Below is the total tree cover loss since 2000 in Travis and surrounding counties that make up the Austin Metropolitan Statistical Area (MSA). Notably almost all of this loss is outside the City of Austin.
+
 | County     | Tree Cover Loss (kha) | Tree Cover Loss (square miles) |
 |------------|-----------------------|--------------------------------|
 | Travis     | 8.2                   | 31.7                           |
@@ -144,6 +146,10 @@ This depends on where you cut down the tree(s). In practical, relative terms, re
 | **Total**  | **38.71**             | **149.5**                      |
 
 [Source: Global Forest Watch. “Tree cover loss in Travis, Williamson, Bastrop, Caldwell, and Hays counties”. Accessed on 17/12/2023 from www.globalforestwatch.org](https://www.globalforestwatch.org/map/country/USA)
+
+While it is difficult to quantify the exact contribution of further suburban development and the repeated encroachment of our built environments on nature, it is apparent from the images below that clear cutting for suburbia has lead to substantial loss of tree cover.
+
+TODO: Image carousel
 
 This is not to say that trees aren't important in cities. Trees are a vital component in any livable, walkable, and equitable city. Fortunately the City of Austin recognizes this and has a plan to increase the city's tree canopy. Thus far [tree canopy has increased from 30% in 2005 to 41% in 2022](https://data.austintexas.gov/stories/s/gkfj-bt4r). Austin is gaining tree canopy; not losing it. Further the City of Austin has recognized that there is significant disparity in tree canopy between West and East Austin. [Austin's Community Tree Priority Map](https://www.austintexas.gov/blog/explore-austins-community-tree-priority-map) was created to address this inequity.
 
