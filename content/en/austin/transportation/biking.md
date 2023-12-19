@@ -11,7 +11,7 @@ Biking is not just healthy but also offers many other benefits:
 
 - It's much cheaper than driving. Even an e-bike uses just 5-10 cents of electricity per charge and a typical e-bike has a range of 30-60 miles.
 - It's significantly less strain on infrastructure. Bikes cause almost zero damage to roads. Larger, heavier vehicles [are responsible for road damage](https://en.m.wikipedia.org/wiki/Fourth_power_law).
-- Biking is generally a much more pleasant experience than driving. You feel a lot more present, more attached to the world around you, people wave and smile, and you simply move around at more human and lower stressed speeds.
+- Biking is generally a much more pleasant experience than driving. You feel a lot more present, more attached to the world around you, people wave and smile, and you simply move around at more human and lower stress speeds.
 
 ## Getting Around
 
@@ -29,7 +29,7 @@ So if you want to start biking check out the links below to find a bike, or star
 
 The city of Austin has planned out an All Ages and Abilities network with the goal of creating over 800 miles of bike lanes across Austin. You can find plans, analysis, and maps of the city's biking network within their [AAA biking network tool here](https://austin.maps.arcgis.com/apps/MapJournal/index.html?appid=dba125033d42453491b36ea5fb935eea). It's a great place to get started with seeing what bike lanes are near you.
 
-Scroll through to find regularly updated maps of what's been finished, what's currently being built, and what's coming! This tool also contains a list of each project, its status, and it's style (known as a treatment type). Style varies from painted bike lanes to fully protected and separated lanes. You can view this info in table format or by clicking on a particular segment on the buildout map.
+Scroll through to find regularly updated maps of what's been finished, what's currently being built, and what's coming! This tool also contains a list of each project, its status, and it's style (known as a treatment type). Style varies from painted bike lanes to fully protected and separated lanes. You can view this info in table format or by clicking on a particular segment on the build-out map.
 
 ## Austin 2023 Bicycle Plan
 

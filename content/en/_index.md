@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 description: >
-  The guide aims to serve as part historical record, part tutorial, and part HOWTO on getting involved with whichever aspects of urbanism are intriguing to you.
+  This guide aims to serve as part historical record, part tutorial, and part HOWTO on getting involved with whichever aspects of urbanism are intriguing to you.
 
 cascade:
   - type: "docs"
@@ -20,6 +20,6 @@ We write this guide as advocacy so that people of any age, ethnicity, income, ba
 
 If this intrigues you then keep reading to understand what urbanism is and how you can help further its various causes to improve our lives.
 
-We are based in Austin, Texas and as such have a good deal of material specifically about urbanism in Austin. However there's plenty of information that applies to the USA and beyond. For example, we cover [biking](/austin/transportation/biking) within Austin but we've got info in that article applicable to anywhere; like did you know that half of all trips are easily bikeable, and 80% can be done an an ebike?
+We are based in Austin, Texas and as such have a good deal of material specifically about urbanism in Austin. However there's plenty of information that applies to the USA and beyond. For example, we cover [biking](/austin/transportation/biking) within Austin but we've got info in that article applicable to anywhere; like did you know that half of all trips are easily bike-able, and 80% can be done on an e-bike?
 
 And if you're brand new to urbanism and don't know where to get started then check out [What is Urbanism?](/getting_started/what_is_urbanism)
