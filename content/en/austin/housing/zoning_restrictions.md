@@ -47,7 +47,7 @@ Over time more approaches to zoning were devised such as surreptitious [increase
 
 > Streets would be widened and paved to account for increasing automobile use (Austinites were already complaining about traffic in 1928). Boulevards would be sculpted and lined with trees. Playgrounds and parks would be built within a half-mile walk of every person in the city [...]
 >
-> And black Austinites would be shunted into a new “negro district.”
+> And black Austinites would be shunted into a new “[black] district.”
 >
 > [Source: "The Problem We Still Live With" by Ryan Puzycki](https://puzycki.substack.com/p/the-problem-we-still-live-with)
 
