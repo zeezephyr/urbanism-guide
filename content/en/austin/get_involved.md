@@ -5,32 +5,42 @@ weight: 1
 description: >
   There are numerous ways to get yourself more involved in supporting urbanist causes. The first steps of which are knowing who you are, what you care about, and getting informed.
 ---
-## Who You Are
 
-Being informed about urbanist issues involves finding groups and sources of information that can help you find what to act on. Everyone cares about different aspects of urbanism be it housing, equity, public transit, bike lanes, safety, etc. Lean into this.
+Getting involved can take on a multitude of forms, from simply getting outside, to finding groups and sources of information that can help you find what to act on. Everyone cares about different aspects of urbanism be it housing, equity, public transit, bike lanes, safety, etc.
 
-Being an urbanist does not require that you know and do everything. There are many of us. If we each pick and do what we're most interested in then the overall goals of urbanism will be better for it. Doing urbanism is mostly volunteer and unpaid work so if you're going to do it you may as well like either the work, the outcome, or both.
+Being an urbanist does not require that you know and do everything. There are many of us. If we each pick and do what we're most interested in then our cities will be better for it. Look for what speaks to you.
 
-## What do urbanists do?
+## First, Get Out In Your Neighborhood
+
+The most basic thing you can do is get out and try walking somewhere, [biking](/austin/transportation/biking), or taking transit. The organization [Get There ATX](https://www.getthereatx.com/) has a bunch of resources for whatever forms work for you. The first step is as simple as pulling up your mapping app and seeing what is within a reasonable and safe distance of your home, work, or some place you go to a lot. One thing I've found is that by simply choosing to get places without a car I discover the world around me much more easily. I find small places, parks, quiet streets, and bump into friends and acquaintances who I'd never otherwise see.
+
+If you happen to live further away from safe non-car forms of commuting then all is not lost either. Take your car to somewhere that is walkable and pleasant, drive to [a bus stop or the Redline](https://www.capmetro.org/park-ride). Simply find a way to make your travel part of what you're doing. Don't just drive into the city for a one off event, make a day of it, head out early and go to a park, or hang back later and just take a walk. So often we go from our home to a parking spot next to our destination and avoid taking that even a moment to see what else is around us. We avoid stepping out of our carefully curated schedules to avoid traffic and drive to our next planned thing. Get out and wander when you can.
+
+Whatever you do or don't do know that this is not some gigantic commitment. Rather this is just you seeing what many of us can do through our actions, small and big, frequent and uncommon. Getting out, seeing what's possible, and what else can be done is not just about satisfying your need for human connection but also seeing if you care about these things. If you do then you may find that it motivates you to want more livable cities both for yourself and others.
+
+If you truly can't do these things because of schedules, affordability, or inaccessibility then know that all is not lost here either. We can still make our towns and cities better. We can make them easier to get around, affordable, and accessible. There are many resources for doing so in small to large ways; so check them out below.
+
+## Second, Get Involved
 
 Urbanists make their voice heard. It may sound simple or cheesy but this is what anti-urbanists do and it's why our neighborhoods are put together so poorly and unfairly. We are going to change this.
 
 We do this in a variety of ways that vary from low effort to high effort. Start where you want but we suggest starting with simple, low effort actions to dip your toes, familiarize yourself, and build from there. All of these efforts can and do have a high impact on how our cities and towns evolve.
 
-- Simple
-  - Answering surveys
-  - Contacting representatives
-- Moderate
-  - Attending city council meetings
-  - Canvassing / door knocking, & phone banking
-  - Attending demonstrations and protests
-  - Content creation
-  - Research
-- High
-  - Event planning
-  - Organizing
+Some examples of urbanist activites in rough order of effort are:
 
-## Getting Informed
+- Answering surveys
+- Contacting representatives
+- Getting outside
+- Educating yourself, friends, and family
+
+- Attending city council meetings
+- Canvassing / door knocking, & phone banking
+- Attending demonstrations and protests
+- Content creation
+- Research
+
+- Event planning
+- Organizing
 
 There are many places to get informed on Austin urbanism and find many things to do within both urbanist and urbanist-aligned causes. A non-exhaustive list is below. If you know of something we missed [please let us know here](https://github.com/zeezephyr/urbanism-guide/discussions/23#discussion-5695516).
 

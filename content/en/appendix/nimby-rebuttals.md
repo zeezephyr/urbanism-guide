@@ -149,7 +149,7 @@ Below is the total tree cover loss since 2000 in Travis and surrounding counties
 
 While it is difficult to quantify the exact contribution of further suburban development and the repeated encroachment of our built environments on nature, it is apparent from the images below that clear cutting for suburbia has lead to substantial loss of tree cover.
 
-TODO: Image carousel
+<!-- TODO: Image carousel -->
 
 This is not to say that trees aren't important in cities. Trees are a vital component in any livable, walkable, and equitable city. Fortunately the City of Austin recognizes this and has a plan to increase the city's tree canopy. Thus far [tree canopy has increased from 30% in 2005 to 41% in 2022](https://data.austintexas.gov/stories/s/gkfj-bt4r). Austin is gaining tree canopy; not losing it. Further the City of Austin has recognized that there is significant disparity in tree canopy between West and East Austin. [Austin's Community Tree Priority Map](https://www.austintexas.gov/blog/explore-austins-community-tree-priority-map) was created to address this inequity.
 
