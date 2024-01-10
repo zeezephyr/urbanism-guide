@@ -1,11 +1,24 @@
 {
+  "comments": {
+    "dependencies": {
+      "@splidejs/splide": "project",
+      "serve": "project"
+    },
+    "devDependencies": {
+      "@fullhuman/postcss-purgecss": "project",
+      "autoprefixer": "project",
+      "postcss": "project",
+      "postcss-cli": "project"
+    }
+  },
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "serve": "^14.2.1"
+  },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.30",
     "postcss-cli": "^10.1.0"
-  },
-  "dependencies": {
-    "serve": "^14.2.1"
   }
 }
