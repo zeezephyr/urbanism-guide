@@ -7,6 +7,7 @@
 // THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @import './emoji-map';
+@import '../../node_modules/@splidejs/splide/dist/css/splide.min';
 
 $custom-map: (
   "austin-flag": "/media/austin_flag_wikipedia_public_domain.png",
@@ -183,4 +184,31 @@ footer div.col-6:nth-child(2) {
   main.col-12 {
     width: 60%;
   }
+}
+
+// Splide.js tweaks
+.splide__slide img {
+  object-fit: scale-down;
+  max-width: 80%;
+  max-height: 60svh;
+}
+
+.splide__slide div {
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.splide {
+  max-height: 80svh;
+  background: $gray-200;
+  background: radial-gradient(ellipse, $gray-200 5%, rgba(0,0,0,0) 100%); 
+  padding: 1rem;
+}
+
+.splide__pagination {
+  margin: 0;
+  position: relative;
+}
+.splide__pagination__page.is-active {
+  background-color: black;
 }
