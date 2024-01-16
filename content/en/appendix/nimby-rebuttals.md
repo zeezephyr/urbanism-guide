@@ -170,6 +170,10 @@ While it is difficult to quantify the exact contribution of further suburban dev
 
 This is not to say that trees aren't important in cities. Trees are a vital component in any livable, walkable, and equitable city. Fortunately the City of Austin recognizes this and has a plan to increase the city's tree canopy. Thus far [tree canopy has increased from 30% in 2005 to 41% in 2022](https://data.austintexas.gov/stories/s/gkfj-bt4r). Austin is gaining tree canopy; not losing it. Further the City of Austin has recognized that there is significant disparity in tree canopy between West and East Austin. [Austin's Community Tree Priority Map](https://www.austintexas.gov/blog/explore-austins-community-tree-priority-map) was created to address this inequity.
 
+{{% alert title="Tree canopy gains" color="primary" %}}
+The City of Austin has been [gaining tree canopy since 2005](https://data.austintexas.gov/stories/s/gkfj-bt4r). It's now up to 41% and CoA will keep adding to it!
+{{% /alert %}}
+
 ### Dense housing is bad for the environment
 
 It should go without saying but people need a place to live. They will need homes regardless. So questions on environmentalism boil down to efficiency and where and how homes are built rather than if we should build. There is no option where we do not provide enough housing for people who need it.
