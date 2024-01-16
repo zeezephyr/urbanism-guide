@@ -2573,7 +2573,8 @@
 
   // <stdin>
   new Splide(".splide", {
-    rewind: true
+    rewind: true,
+    lazyLoad: "sequential"
   }).mount();
 })();
 /*! Bundled license information:
