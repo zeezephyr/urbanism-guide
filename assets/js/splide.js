@@ -1,3 +1,5 @@
 import Splide from '@splidejs/splide';
 
-new Splide('.splide').mount();
+new Splide('.splide', {
+    rewind: true
+}).mount();

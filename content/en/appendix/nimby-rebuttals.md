@@ -132,9 +132,11 @@ Parking, large roads, and empty spaces create heat islands.
 
 ### Cutting down a tree to build housing is environmental destruction
 
-This depends on where you cut down the tree(s). In practical, relative terms, removing a handful of trees on private property in order to build housing within a city will always be significantly lower impact than doing it elsewhere. Places immediately outside the City of Austin have seen substantial tree cover loss as our surrounding hillside and forests are cut down in order to make way for sprawl. Along with fires, storm damage, and other contributors to tree cover loss; many of which have direct and indirect causes related to urban sprawl and human activity.
+This depends on where you cut down the tree(s). In practical, relative terms, removing a handful of trees on private property in order to build housing within a city will always be significantly lower impact than clearcutting huge acres of trees to build more suburbia and highways. Places immediately outside the City of Austin have seen substantial tree cover loss as our surrounding hillside and forests are cut down in order to make way for sprawl. Along with fires, storm damage, and other contributors to tree cover loss; many of which have direct and indirect causes related to urban sprawl and human activity.
 
 Below is the total tree cover loss since 2000 in Travis and surrounding counties that make up the Austin Metropolitan Statistical Area (MSA). Notably almost all of this loss is outside the City of Austin.
+
+<!--TODO: Add tree loss per capita column-->
 
 | County     | Tree Cover Loss (kha) | Tree Cover Loss (square miles) |
 |------------|-----------------------|--------------------------------|
@@ -149,9 +151,22 @@ Below is the total tree cover loss since 2000 in Travis and surrounding counties
 
 While it is difficult to quantify the exact contribution of further suburban development and the repeated encroachment of our built environments on nature, it is apparent from the images below that clear cutting for suburbia has lead to substantial loss of tree cover.
 
-<!-- TODO: Image carousel -->
-
 {{< carousel >}}
+
+{{< image title="A large overview of forest loss since 2000." src="/media/forest-loss-overview.png" >}}
+{{< image title="Large forest loss over Bastrop. Forest fires have multiple causes. Many of which are a consequence of human activity; though not all attributable to development." src="/media/forest-loss-bastrop.png" >}}
+{{< image title="A close up of Bastrop." src="/media/forest-loss-bastrop-close-up.png" >}}
+{{< image title="North Austin. We lose forest by spreading out further from the urban core of our city. You can see the forest loss on the edges of the city." src="/media/forest-loss-north-austin.png" >}}
+{{< image title="South Austin. Here further and further development south contributes to forest loss." src="/media/forest-loss-south-austin.png" >}}
+{{< image title="Forest loss in and around Lake Travis." src="/media/forest-loss-north-west-of-austin-1.png" >}}
+{{< image title="Further west of Austin." src="/media/forest-loss-north-west-of-austin-2.png" >}}
+{{< image title="Southwest of Austin." src="/media/forest-loss-south-west-of-austin.png" >}}
+{{< image title="Northwest of Kyle." src="/media/forest-loss-north-west-of-kyle.png" >}}
+<!-- {{< image title="" src="/media/forest-loss-western-us.png" >}}
+{{< image title="" src="/media/forest-loss-eastern-us.png" >}} -->
+
+{{< /carousel >}}
+[Source: Hansen/UMD/Google/USGS/NASA](https://glad.earthengine.app/view/global-forest-change#bl=off;old=off;dl=3;lon=-97.7225259604099;lat=30.329396457383353;zoom=10;)
 
 This is not to say that trees aren't important in cities. Trees are a vital component in any livable, walkable, and equitable city. Fortunately the City of Austin recognizes this and has a plan to increase the city's tree canopy. Thus far [tree canopy has increased from 30% in 2005 to 41% in 2022](https://data.austintexas.gov/stories/s/gkfj-bt4r). Austin is gaining tree canopy; not losing it. Further the City of Austin has recognized that there is significant disparity in tree canopy between West and East Austin. [Austin's Community Tree Priority Map](https://www.austintexas.gov/blog/explore-austins-community-tree-priority-map) was created to address this inequity.
 
