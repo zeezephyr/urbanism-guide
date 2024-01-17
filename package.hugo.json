@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.30",
+    "postcss-cli": "^10.1.0"
+  },
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "serve": "^14.2.1"
+  }
+}

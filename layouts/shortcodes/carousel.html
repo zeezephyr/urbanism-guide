@@ -1,0 +1,13 @@
+<section class="splide">
+    <div class="splide__track">
+        <ul class="splide__list">
+            {{ .Inner | safeHTML }}
+        </ul>
+    </div>
+</section>
+
+{{ $built := resources.Get "js/splide.js" | js.Build "main.js" }}
+<script src="{{ $built.Permalink }}"></script>
+
+{{- $options := (dict "includePaths" (slice "node_modules")) -}}
+{{- $style := resources.Get "scss/main.scss" | resources.ToCSS $options -}}
