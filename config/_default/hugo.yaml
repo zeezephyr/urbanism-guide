@@ -54,3 +54,8 @@ params:
       url: https://github.com/zeezephyr/urbanism-guide
       icon: fa-brands fa-github github-link
       desc: Contribute to this website. We need your knowledge!
+
+privacy:
+  youtube:
+    disable: false
+    privacyEnhanced: true
