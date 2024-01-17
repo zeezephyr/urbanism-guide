@@ -89,6 +89,14 @@ Leslie Pool is term-limited and cannot run for reelection. There are a few candi
 >
 > -- [Siegel for Austin.org](https://www.siegelforaustin.org/about)
 
+[Edwin Bautista](https://www.edwinfordistrict7.com/) holds a Masters of Science in Community and Regional planning, and a Bachelors degree in Urban Studies; both from The University of Texas. Edwin has served on the City of Austin's College Student Commission in 2021 and as managing Director for the West Campus Neighborhood Association. He currently works for Texas Housers where "he contributes to the organization’s mission of supporting low-income Texans’ efforts to achieve the American dream of a decent, affordable home in a quality neighborhood".
+
+> After graduating in May 2020 and amid the COVID pandemic, Edwin decided to pursue a master of science degree in Community & Regional Planning at UT Austin because of its’ core purpose that was instilled in him as an undergraduate student – “to transform lives for the benefit of society.”  While in graduate school, Edwin leveraged his lived experience as a low-income student affected by displacement to advocate on behalf of his community and represent UT students on the City of Austin’s College Student Commission in 2021. While serving on the commission, Edwin wrote and supported resolutions that sought to address the lack of affordable student housing in Austin and were eventually sponsored by City Council in February 2023. 
+>
+> Additionally, Edwin has supported the neighborhoods he’s resided in by volunteering for leadership positions such as Managing Director for WCNA and former Communication Director for the Highland Neighborhood Association. His advocacy efforts were extended to the greater Austin community in 2022 when he served on the Community Review Panel that helped guide the initial $20 million dispersal of Community Initiated Solutions funding related to Project Connect’s Anti-Displacement initiative.
+>
+> -- [Edwin for District 7.com](https://www.edwinfordistrict7.com/)
+
 ## District 10
 
 Alison Alter is also term-limited and cannot run for reelection. CM A Alter recently voted along with Mackenzie Kelly to oppose HOME and the elimination of parking mandates. Ashika Ganguly is officially running for the District 10 seat, has a bunch of [excellent endorsements](https://www.ashikaforaustin.com/endorsements), and would make a refreshing change to Alison Alter.
