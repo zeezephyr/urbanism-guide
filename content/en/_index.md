@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 description: >
-  This guide aims to serve as part historical record, part tutorial, and part HOWTO on getting involved with whichever aspects of urbanism are intriguing to you.
+  This guide serves as part historical record, part tutorial, and part HOWTO on getting involved with whichever aspects of urbanism are intriguing to you.
 
 cascade:
   - type: "docs"
