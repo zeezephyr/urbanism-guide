@@ -9,9 +9,13 @@ Affordable housing is a term that has many meanings depending on who you're talk
 Most generally affordable housing can be broken down into two major categories:
 
 1. Capital-A Affordability for people living within a certain household income level as defined by the City of Austin
-1. Market-rate affordability (ie. the present day cost of housing)
+2. Market-rate affordability (ie. the present day cost of housing)
 
 Both of these are entirely legitimate concerns and ways to think about housing, so we'll discuss them both and some of the ways in which affordability has been and can continue to be addressed. However it's important to keep in mind that housing affordability is one large piece of a big puzzle that includes cost of transit, utilities, and services.
+
+{{% alert title="Find Affordable Housing" color="primary" %}}
+If you're in need of affordable housing the City of Austin [has a search tool for finding Affordable housing](https://www.atxaffordablehousing.net/). There are also [numerous other resources](https://www.austintexas.gov/page/resources-renters) for landlord issues, evictions, rent and utility assistance, and more.
+{{% /alert %}}
 
 ## City of Austin Housing Affordability Initiatives
 
