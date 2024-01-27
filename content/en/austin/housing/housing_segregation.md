@@ -1,11 +1,12 @@
 ---
 title: "Housing Segregation"
 icon: "icon twa-derelict-house-building"
+# url: us/housing/housing_segregation
 description: >
     The US's Federal, State, and Local governments spent nearly a century intentionally creating segregated communities in the US. Read on to scratch the surface on this tragic history.
 ---
 
-Housing segregation is neither natural nor unique to Austin. Rather it is something that has been intentionally created and enforced through local, state, and federal laws and agencies. It took every conceivable form and its remnants continue to exist today. Our country's wounds are deep, have not ended, and they still have long to heal.
+Housing segregation is neither natural nor unique to Austin. Rather it is something that has been intentionally created and enforced through local, state, and federal laws and agencies. It took every conceivable form and its remnants continue to exist today. Our country's wounds are deep, [have not ended](https://journals.sagepub.com/doi/full/10.1177/1044389420923469), and they still have long to heal.
 
 The forms it took are as numerous and creative as you can imagine. From local [racial and euclidean zoning](/austin/housing/zoning_restrictions), neighborhood associations, and racial deed restrictions (aka. covenants). To state and country-wide highway expansion. To federal housing loans, public housing, and redlining. To the free market exploiting segregation in the form of blockbusting, contract sales, and 2008's subprime mortgage crisis. Racist and exclusionary housing practices are not over either; recently [Navy FCU was accused of systematically denying loan applications](https://www.cnn.com/2023/12/14/business/navy-federal-credit-union-black-applicants-invs/index.html) to qualified Black Americans who served in our armed forces.
 
@@ -19,9 +20,9 @@ Intentional and legalized housing segregation continues to plague our cities and
 
 ## A Note on The Impacts on People
 
-Below we describe the significant ways that our government and society created segregation both in Austin and throughout the US. But equally important is to keep in mind how the people who were victims of these policies were forced to live. They were living in poorly constructed housing which were intentionally placed far from work and "white" society. Despite this they'd often be paying much more for housing than other Americans due to limited options, and higher interest rates (5.5% to 9% higher). As a result they'd often be forced to work multiple jobs, take on extra roommates, and have little time or energy to maintain their already poorly constructed housing. They'd have their roads less paved, their sewers less serviced, and all other utilities neglected.
+Below we describe the significant ways that our government and society created segregation both in Austin and throughout the US. But equally important is to keep in mind how the people who were victims of these policies were forced to live. They were living in poorly constructed housing which were intentionally placed far from work and "white" society. Despite this they'd often be paying much more for housing than other Americans due to limited options, and higher interest rates from private loans. As a result they'd often be forced to work multiple jobs, take on extra roommates, and have little time or energy to maintain their already poorly constructed housing. They'd have their roads less paved, their sewers less serviced, and other utilities and services neglected.
 
-Many racist stereotypes that exist today come from these conditions. Conditions that are not intrinsic but forced on Black Americans and immigrant populations throughout our history. But as is often the case in America, Black Americans always seem to get the worst of it.
+Many racist stereotypes that exist today come from these conditions. Conditions that are forced on Black Americans and immigrant populations throughout our history. But as is often the case in America, Black Americans seem to get the worst of it.
 
 ## Deed Restrictions / Racial Covenants
 
@@ -33,4 +34,46 @@ Such restrictions as the one featured above were legal until [1948 when the Supr
 
 Except it didn't end here either. These covenants were then quickly replaced with prohibitively expensive "damages" that would be charged to land owners who violated a deed restriction and sold land or housing to non-whites. The Supreme Court banned this circumvention in the [1953 case Barrows v. Jackson](https://supreme.justia.com/cases/federal/us/346/249/).
 
-Despite the ultimate unenforceability of any racial covenants in deed restrictions post-1953 they were still able to be included in deed restrictions until a federal appeals court ruled in 1972 that they violated the Fair Housing Act. If they couldn't be enforced such racist covenants could at least clearly communicate to would-be home buyers who was welcome and who was not.
+Despite the ultimate unenforceability of any racial covenants in deed restrictions post-1953 they were still able to be included in deed restrictions until a federal appeals court [ruled in 1972 that they violated the Fair Housing Act](https://casetext.com/case/mayers-v-ridley-2/case-summaries). If they couldn't be enforced such racist covenants could at least clearly communicate to would-be home buyers who was welcome and who was not.
+
+{{% alert title="Mapping segregation" color="primary" %}}
+Many excellent people are [working across the US to map racial covenants](https://mappingprejudice.umn.edu/covenants-research-nationwide) in their cities. No such attempt yet exists in Austin.
+{{% /alert %}}
+
+## Neighborhood Associations
+
+Neighborhood Associations came into fashion around the 1920s and went hand in hand with racial covenants in deed restrictions. Prior to this a deed restriction was between the seller of a house, and the purchaser of a house. If these two parties decided to not be racist then a house could simply be sold to whoever was wanting to buy it as only these parties could enforce the racial covenant.
+
+This practice was wide-spread and the difficulty of finding and reading through old deed restrictions has unfortunately left the data on it incomplete. Yet data and examples are still abundant. According to "The Color of Law" by Richard Rothstein a survey of 300 developments built between 1935-1947 in Queens, Nassau, and Westchester Counties found that 56% of all of them had racial covenants; as did 85% of large developments (75 or more units).
+
+> [..] many subdivision developers created a community association before putting homes up for initial sale, and they made membership in it a condition of purchase. Association bylaws usually included a whites-only clause
+>
+> -- ["The Color of Law" by Richard Rothstein](https://www.litcharts.com/lit/the-color-of-law)
+
+## Public Housing
+
+In 1933 the US Government started responding to The Great Depression's significant lack of affordable housing by constructing public housing as part of a series of progressive reforms known as The New Deal. Initially this was done at the federal level under the Public Works Administration (PWA) but shortly thereafter construction would be done at the state level with these projects being approved and funded by the federal United States Housing Authority (USHA).
+
+The USHA's housing program was simultaneously a monumental and highly progressive feat of socialized care for white Americans while also being a driver of segregation, inequity, and upheaval for non-white Americans; especially Black Americans. It accomplished this through policies of:
+
+- Refusing to construct new integrated housing
+- Allowing for poor build quality in non-white neighborhoods
+- Systematically placing white neighborhoods close to work and placing non-white neighborhoods next to industrial areas on the outskirts of cities
+
+In fact the first USHA housing projects were constructed in Austin, TX. These projects involved creating separate white, Mexican, and Black housing projects. The white project would be placed closest to downtown, while the Mexican and Black neighborhoods would be placed on the then-outskirts of the city near heavy industry. Further cementing Austin's 1928 master plan to segregate the previously integrated city.
+
+{{< carousel >}}
+
+{{< image title="Throughout the US very little consideration was given to where non-white housing projects would be constructed so long as they were far away from white projects and neighborhoods." src="/media/housing-tracts-usha-1938.png" >}}
+{{< image title="The first whites-only housing project starts construction in Austin." src="/media/whites-only-usha-housing-1938.png" >}}
+{{< image title="Neighborhoods were torn down under the auspices of 'slum clearance'. A thinly veiled code word for segregation." src="/media/slum-clearance-usha-1939.png" >}}
+{{< image title="" src="" >}}
+
+{{< /carousel >}}
+Source: The Austin Statesman; various dates: Feb 1 1938, Dec 23 1938, Jan 31 1939. 
+
+## Redlining
+
+## Highway Construction
+
+- As a tool for slum clearance
