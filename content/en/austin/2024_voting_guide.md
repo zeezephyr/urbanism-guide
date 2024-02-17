@@ -57,7 +57,7 @@ Chito Vela is running for reelection and has an excellent track record of suppor
 
 The current incumbent, Mackenzie Kelly, has voted against key housing reforms (ie. HOME) and the elimination of parking mandates.
 
-Krista Laine has filed to challenge Mackenzie Kelly's seat and while her campaign website isn't up just yet she promises to be the effective and visionary leader we need for the District 6 seat. Krista Laine previously served as President of [Access Education RRISD](https://accessrrisd.org/) which successfully led the fight against a far-right takeover of the Round Rock school district.
+Krista Laine has filed to challenge Mackenzie Kelly's seat and promises to be the effective and visionary leader we need for the District 6 seat. Krista Laine previously served as President of [Access Education RRISD](https://accessrrisd.org/) which successfully led the fight against a far-right takeover of the Round Rock school district.
 
 > Krista is a proven, effective advocate who puts families and community needs before politics.
 >
@@ -65,7 +65,7 @@ Krista Laine has filed to challenge Mackenzie Kelly's seat and while her campaig
 >
 > As a public schools advocate and parent, Krista has seen firsthand the struggles faced by our neighborhood public schools and the positive impact that the city, county, and other local governmental entities can have on meeting the needs of students, families, and the community.
 >
-> -- [Krista Laine for Austin D6](https://secure.actblue.com/donate/krista-laine)
+> -- [Krista Laine for Austin D6](https://www.kristalaine.com/)
 
 ## District 7
 
