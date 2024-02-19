@@ -10,6 +10,8 @@ description: >
 "The Color of Law" by Richard Rothstein served as the initial impetus and a great deal of inspiration for this article. If you want the full story of the egregious extent that all levels of US government and society went towards creating segregation then get yourself a copy. You can even check it out [at the Austin Public Library](https://austin.bibliocommons.com/v2/record/S67C1782566).
 {{% /alert %}}
 
+<!--TODO: Maybe add https://ulidigitalmarketing.blob.core.windows.net/ulidcnc/sites/6/2021/11/ShapingAustin_ULInsights_Nov16.2021.pdf  to above call out -->
+
 Housing segregation is neither natural nor unique to Austin. Rather it is something that has been intentionally created and enforced through local, state, and federal laws and agencies. It took every conceivable form and its remnants continue to exist today. Our country's wounds are deep, [have not ended](https://journals.sagepub.com/doi/full/10.1177/1044389420923469), and they still have long to heal.
 
 The forms it took are as numerous and creative as you can imagine. From local [racial and euclidean zoning](/austin/housing/zoning_restrictions), neighborhood associations, and racial deed restrictions (aka. covenants). To state and country-wide highway expansion. To federal housing loans, public housing, and redlining. To the free market exploiting segregation in the form of blockbusting, contract sales, and 2008's subprime mortgage crisis. Racist and exclusionary housing practices are not over either; recently [Navy FCU was accused of systematically denying loan applications](https://www.cnn.com/2023/12/14/business/navy-federal-credit-union-black-applicants-invs/index.html) to qualified Black Americans who served in our armed forces.
@@ -76,7 +78,6 @@ In fact the first USHA housing projects were constructed in Austin, TX. These pr
 {{< image title="Throughout the US very little consideration was given to where non-white housing projects would be constructed so long as they were far away from white projects and neighborhoods." src="/media/housing-tracts-usha-1938.png" >}}
 {{< image title="The first whites-only housing project starts construction in Austin." src="/media/whites-only-usha-housing-1938.png" >}}
 {{< image title="Neighborhoods were torn down under the auspices of 'slum clearance'. A thinly veiled code word for segregation." src="/media/slum-clearance-usha-1939.png" >}}
-{{< image title="" src="" >}}
 
 {{< /carousel >}}
 Source: The Austin Statesman; various dates: Feb 1 1938, Dec 23 1938, Jan 31 1939. 
@@ -92,3 +93,5 @@ Source: The Austin Statesman; various dates: Feb 1 1938, Dec 23 1938, Jan 31 193
 {{% pageinfo color="info" %}}
 {{<contribute>}}
 {{% /pageinfo %}}
+
+<!--TODO: Add school choice/segregation as a tool to force neighborhood segregation-->
