@@ -1,7 +1,7 @@
 ---
 title: "2024 Voting Guide"
 icon: "icon twa-ballot-box-with-ballot"
-weight: 2
+weight: 1
 url: austin/voting_guide/2024
 description: >
   There are 6 city council seats up for reelection this year. Here's who to support, donate to, and vote for thus far.

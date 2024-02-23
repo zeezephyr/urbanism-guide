@@ -1,7 +1,7 @@
 ---
 title: "Get Involved"
 icon: "icon twa-raised-fist"
-weight: 1
+weight: 2
 description: >
   There are numerous ways to get yourself more involved in supporting urbanist causes. The first steps of which are knowing who you are, what you care about, and getting informed.
 ---

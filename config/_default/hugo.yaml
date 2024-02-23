@@ -59,3 +59,10 @@ privacy:
   youtube:
     disable: false
     privacyEnhanced: true
+
+# TODO: Fix so this works
+# permalinks:
+#   page:
+#     austin/get_involved/current_issues: /austin/get_involved/issues/:slug/
+#   section:
+#     austin/get_involved/current_issues: /austin/get_involved/issues/
