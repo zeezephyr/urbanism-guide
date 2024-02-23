@@ -2,13 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://urbanism.guide/austin/get_involved/</loc>
+    <loc>https://urbanism.guide/austin/voting_guide/2024/</loc>
   </url><url>
     <loc>https://urbanism.guide/getting_started/</loc>
   </url><url>
     <loc>https://urbanism.guide/getting_started/what_is_urbanism/</loc>
   </url><url>
-    <loc>https://urbanism.guide/austin/voting_guide/2024/</loc>
+    <loc>https://urbanism.guide/austin/get_involved/</loc>
+  </url><url>
+    <loc>https://urbanism.guide/austin/issues/</loc>
   </url><url>
     <loc>https://urbanism.guide/appendix/nimby-rebuttals/</loc>
   </url><url>
@@ -39,6 +41,8 @@
     <loc>https://urbanism.guide/austin/transportation/highways/</loc>
   </url><url>
     <loc>https://urbanism.guide/austin/housing/housing_segregation/</loc>
+  </url><url>
+    <loc>https://urbanism.guide/austin/issues/i35_expansion/</loc>
   </url><url>
     <loc>https://urbanism.guide/austin/transportation/parking/</loc>
   </url><url>
