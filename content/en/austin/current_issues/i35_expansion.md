@@ -3,7 +3,7 @@ title: "I-35 Expansion"
 icon: "icon twa-stop-sign"
 url: austin/issues/i35_expansion
 description: >
-    The I-35 expansion promises to make the highway ever wider; further dividing our city, polluting our river, and wasting our state budget on antiquated views of mobility. Many activist organizations are teaming up to fight them in court. Here's what's happening and how you can help!
+    The I-35 expansion promises to make the highway ever wider; further dividing our city, polluting our river, and wasting our state budget on antiquated views of mobility. Many activist organizations are teaming up to fight the expansion in court. Here's what's happening and how you can help!
 ---
 
 {{% alert title="How to help" color="primary" %}}
