@@ -3,7 +3,7 @@ title: "I-35 Expansion"
 icon: "icon twa-stop-sign"
 url: austin/issues/i35_expansion
 description: >
-    The I-35 expansion promises to make the highway ever wider; further dividing our city larger, polluting our river, and wasting our state budget on antiquated views of mobility. Many activist organizations are teaming up to fight them in court. Here's what's happening and how you can help!
+    The I-35 expansion promises to make the highway ever wider; further dividing our city, polluting our river, and wasting our state budget on antiquated views of mobility. Many activist organizations are teaming up to fight them in court. Here's what's happening and how you can help!
 ---
 
 {{% alert title="How to help" color="primary" %}}
@@ -21,18 +21,19 @@ TxDOT is set to start construction on a massive I-35 expansion through central A
 
 TxDOT has yet to listen to the public, to elected officials, and to common sense that shows [highways have been a fatal and failed experiment](/austin/transportation/highways) in moving people safely and efficiently around the US.
 
+{{% alert title="Rail is faster" color="dark" %}}
+If a train ran along I-35 it could get you from [San Antonio to Austin in 38 minutes](https://youtu.be/0tRYLxNeNV0), or from San Antonio to Dallas in 2 hours and 8 minutes.
+{{% /alert %}}
+
 ## Rethink35 Lawsuit
 
-- Rethink35 and 16 other plaintiffs have sued TxDOT. The lawsuit alleges:
-  - TxDOT didn't properly study other options such as:
-    - [The Rethink 35 proposal](https://rethink35.org/proposal) which involved rerouting the highway and replacing it with a boulevard.
-    - [The Reconnect Austin vision](https://reconnectaustin.com/#home-vis-sec) which called for the highway being placed underground with a boulevard on top.
-  - TxDOT failed to study several air pollutants and their impacts on the people who live near I-35. This includes particulate matter 2.5 (PM2.5) which puts people at increased risk for asthma and other health conditions. Based on new EPA standards, Austin is already above the safe limit.
-  - There was a significant change to the water outfall that was made after the Draft Environmental Impact Statement was published and so there was no opportunity for public comment. Polluted runoff from the highway will exit into a wildlife preserve in East Austin; around US-183 and the Colorado River.
+Rethink35 and 16 other plaintiffs have sued TxDOT. The lawsuit alleges:
 
-{{% alert title="Highways as segregation tools" color="primary" %}}
-Highway construction and expansion is one of many tools used to systematically segregate our cities. The [history of housing segregation](/austin/housing/housing_segregation) is as brutal as it is banal. These injustices persist to the present day.
-{{% /alert %}}
+- TxDOT didn't properly study other options such as:
+  - [The Rethink 35 proposal](https://rethink35.org/proposal) which involved rerouting the highway and replacing it with a boulevard.
+  - [The Reconnect Austin vision](https://reconnectaustin.com/#home-vis-sec) which called for the highway being placed underground with a boulevard on top.
+- TxDOT failed to study several air pollutants and their impacts on the people who live near I-35. This includes particulate matter 2.5 (PM2.5) which puts people at increased risk for asthma and other health conditions. Based on new EPA standards, [Austin is already above the safe limit](https://www.kut.org/energy-environment/2024-02-19/austin-area-has-dangerously-high-levels-of-air-pollution-according-to-new-epa-standards). TxDOT was [aware of this concern](https://my35capex.com/wp-content/uploads/2023/08/APPROVED-FEIS-ROD_Appendix-G-Comment-Response-Matrix-from-Public-Hearing-Notice-of-Availability-of-DEIS_2023-08-14.pdf).
+- There was [a significant change to the water outfall](https://my35capex.com/wp-content/uploads/2023/08/APPROVED-FEIS-ROD_Appendix-A-Project-Location-Map_2023-08-14.pdf) that was made after the Draft Environmental Impact Statement was published and so there was no opportunity for public comment. Polluted runoff from the highway will exit into [a wildlife preserve in East Austin](https://naturerocksaustin.org/greenspace/colorado-river-preserve); around US-183 and the Colorado River.
 
 ## Civil Rights (Title VI) Complaint
 
@@ -45,3 +46,7 @@ Rethink35 has also [filed a Title VI civil rights complaint](https://www.documen
   - More than doubling the number of lane miles of I-35. Thus widening the barrier between East and West Austin.
   - Dumping polluted storm water into a Wildlife Sanctuary in East Austin, continuing a long-standing pattern of moving environmental waste from downtown to East Austin.
   - Worsening air quality, climate change, and increasing summer temperatures, all of which disproportionately burden communities of color.
+
+{{% alert title="Highways as segregation tools" color="primary" %}}
+Highway construction and expansion is one of many tools used to systematically segregate our cities. The [history of housing segregation](/austin/housing/housing_segregation) is as brutal as it is banal. These injustices persist to the present day.
+{{% /alert %}}
