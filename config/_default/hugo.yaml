@@ -12,11 +12,6 @@ module:
       disable: false
     - path: github.com/google/docsy/dependencies
       disable: false
-  # mounts:
-  #   - source: "./node_modules/@splidejs/splide/dist/css/"
-  #     target: "./assets/scss/splide"
-  #   - source: "./node_modules/@splidejs/splide/dist/js/"
-  #     target: "./assets/js/splide"
 contentDir: "content/en"
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: false
