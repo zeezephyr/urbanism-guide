@@ -45,7 +45,7 @@ $size-map: (
 
 @each $name, $code in $emoji-map {
   .twa-#{$name} {
-    background-image: url("https://twemoji.maxcdn.com/2/svg/#{$code}.svg");
+    background-image: url("https://cdnjs.cloudflare.com/ajax/libs/twemoji/15.1.0/svg/#{$code}.svg");
   }
 }
 
