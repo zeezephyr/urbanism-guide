@@ -27,7 +27,7 @@ If you know something about an urbanist issue and want to contribute your knowle
 
 1. Create a Github account and login
 1. Check out our [discussion section](https://github.com/zeezephyr/urbanism-guide/discussions)
-1. Comment on an open discussion with what you know, explain a concept or a law, tell us about the history of the issue, cite some references, link us to some useful materials, presentations, PDFs, graphs and charts. Any or all of these things are great!
+1. Comment on an open discussion with what you know, **write a draft for an article**, explain a concept or a law, tell us about the history of the issue, cite some references, link us to some useful materials, presentations, PDFs, graphs and charts. Any or all of these things are great!
 1. Or [open your own discussion](https://github.com/zeezephyr/urbanism-guide/discussions/new/choose) if you think something is missing!
 1. (Optional) Try adding your name, username, or pseudonym to the CONTRIBUTORS.md file. Or ask me to do it :smile:
 
