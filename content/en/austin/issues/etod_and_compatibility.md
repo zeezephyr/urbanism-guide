@@ -32,7 +32,7 @@ These rules imply that those who live in multifamily homes are incompatible with
 
 In order to change this, city staff is proposing that those height limits only apply within a 75 foot distance from a single family home. City staff estimates that 63,000 more homes could be built as a result of these policy improvements.
 
-{{% alert title="Valid petition" color="secondary" %}}
+{{% alert title="Missing housing" color="secondary" %}}
 According to [one study](https://services.austintexas.gov/edims/pio/document.cfm?id=414871) we’re missing out on between 72,000 to 135,000 homes that could be built if "compatibility" didn't exist. It's not hard to see how these restrictions also limit ETOD development and in doing so restricts publicly funded transit to those lucky or wealthy enough to live in single family homes.
 {{% /alert %}}
 
