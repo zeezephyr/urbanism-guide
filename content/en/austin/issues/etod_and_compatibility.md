@@ -43,7 +43,7 @@ Lastly, HOME phase 2 is being proposed, which would lower the minimum lot size f
 ### Help Get These Initiatives Passed!
 
 {{% alert title="You're not alone" color="primary" %}}
-If you have questions or want to be notified about upcoming events then sign up to the [AURA newsletter](https://aura-atx.org/subscribe/) or join the [AURA Discord](https://discord.gg/eQqxMV5KMq) and turn on notifications for the #announcements channel.
+If you have questions or want to be notified about upcoming events then sign up to the [AURA Newsletter](https://aura-atx.org/subscribe/) or join the [AURA Discord](https://discord.gg/eQqxMV5KMq) and turn on notifications for the #announcements channel. If you prefer another platform then check out the [AURA Linktree](https://linktr.ee/aura_atx).
 {{% /alert %}}
 
 These changes will have a massively positive impact on the growth, affordability, and sustainability of our cities.
