@@ -80,13 +80,7 @@ In fact the first USHA housing projects were constructed in Austin, TX. These pr
 {{< image title="Neighborhoods were torn down under the auspices of 'slum clearance'. A thinly veiled code word for segregation." src="/media/slum-clearance-usha-1939.png" >}}
 
 {{< /carousel >}}
-Source: The Austin Statesman; various dates: Feb 1 1938, Dec 23 1938, Jan 31 1939. 
-
-## Redlining
-
-{{% pageinfo color="info" %}}
-{{<contribute>}}
-{{% /pageinfo %}}
+Source: The Austin Statesman; various dates: Feb 1 1938, Dec 23 1938, Jan 31 1939.
 
 ## Highway Construction
 
