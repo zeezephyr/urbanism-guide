@@ -19,7 +19,7 @@ Austin City Council is [proposing three measures](https://speakupaustin.org/f561
 >
 > -- [CNT.org](https://etod.cnt.org/about/)
 
-The proposed ETOD overlay aims to zone for dense, mixed-use, walkable development within a half mile of the future Project Connect light rail line, while providing incentives to build more affordable housing and protect existing affordable housing and businesses. This new zoning also seeks to discourage car-oriented development in the ETOD area (e.g. gas stations, car washes). Any new building constructed as a result of this proposal can only be done so on land that is already zoned for multifamily or commercial use. It does not affect single-family zoned properties.
+The [proposed ETOD overlay](https://publicinput.com/u1611) aims to zone for dense, mixed-use, walkable development within a half mile of the future Project Connect light rail line, while providing incentives to build more affordable housing ([12-15% affordable](https://publicinput.com/u1611#tab-49604)) and protect existing affordable housing and businesses. This new zoning also seeks to discourage car-oriented development in the ETOD area (e.g. gas stations, car washes). Any new building constructed as a result of this proposal can only be done so on land that is already zoned for multifamily or commercial use. It does not affect single-family zoned properties.
 
 Under our current land use policies few Austinites can walk or bike to transit. This limited accessibility then leads to less ridership, less transit funding, and worsened service. Transit struggles in low density, car-dependent environments. ETOD turns that vicious cycle into a virtuous cycle where people of all incomes, ages, and backgrounds are able to live near transit; and in this immediate case near the coming light rail of Project Connect.
 
@@ -31,11 +31,15 @@ ETOD and other inclusive housing policies have difficulties overcoming a provisi
 
 ### Removing "Compatibility" Restrictions
 
-In addition to ETOD, there is a proposal for changing the ["compatibility"](/austin/housing/compatibility_restrictions) rules in the city. This restriction limits the height of buildings near single-family homes. “Near” in this case is not actually a small distance. To be specific, a 60 foot tall apartment building has to be at least 300 feet away from every 35 foot tall single-family home in Austin. Compatibility affects housing out to 540 feet, or 1.5 football fields.
+In addition to ETOD, there is [a proposal](https://publicinput.com/j0401) for changing the ["compatibility"](/austin/housing/compatibility_restrictions) rules in the city. This restriction limits the height of buildings near single-family homes. “Near” in this case is not actually a small distance. To be specific, a 60 foot tall apartment building has to be at least 300 feet away from every 35 foot tall single-family home in Austin. Today compatibility affects housing out to 540 feet, or 1.5 football fields.
 
 These rules imply that those who live in multifamily homes are incompatible with those who live in single-family homes. They are based on old, prejudiced, and discriminatory attitudes that say those living in apartments and condos are not welcome near the majority of the city of Austin. Austin is predominantly single-family homes.
 
 In order to change this, city staff is proposing that those height limits only apply within a 75 foot distance from a single-family home. City staff estimates that 63,000 more homes could be built as a result of these policy improvements.
+
+![A diagram comparing the prior compatibility restrictions which extended up to 540 feet from Single Family homes and the new restrictions which extend up to 75 feet from Single Family homes](/media/new_proposed_compatibility.png)
+
+Current vs. Proposed compatibility restrictions. [Source: City of Austin via publicinput.com](https://publicinput.com/j0401#tab-48760)
 
 {{% alert title="Missing housing" color="secondary" %}}
 According to [one study](https://services.austintexas.gov/edims/pio/document.cfm?id=414871) we’re missing out on between 72,000 to 135,000 homes that could be built if "compatibility" didn't exist. It's not hard to see how these restrictions also limit ETOD development and in doing so restricts publicly funded transit to those lucky or wealthy enough to live in single-family homes.
@@ -47,9 +51,9 @@ According to [one study](https://services.austintexas.gov/edims/pio/document.cfm
 Lot sizes increases were one of many methods used to [segregate many neighborhoods](/austin/housing/zoning_restrictions/#a-city-plan-for-austin) throughout Austin.
 {{% /alert %}}
 
-HOME Phase 1 was a [particularly large victory](/austin/wins/2023/#home-options-for-middle-income-empowerment-december-7th) that now allows up to 3 homes to be built on a single lot. Creating more housing for more people.
+HOME Phase 1 was a [very large victory](/austin/wins/2023/#home-options-for-middle-income-empowerment-december-7th) that now allows up to 3 homes to be built on a single lot. Creating more housing for more people.
 
-HOME Phase 2 is a follow-up which would lower the minimum lot size for single-family homes to a minimum of 2,000 square feet. These much more appropriately sized lots would be able to build one house each. This creates more flexibility when creating new housing. Existing residents would be able to sell parts of their large lots and create housing without affecting their current home. While new home buyers would be able to own their home outright and not have to split their ownership and control over their property with an HOA.
+The [HOME Phase 2 proposal](https://publicinput.com/r6817) is a follow-up which would lower the minimum lot size for single-family homes to a minimum of 2,000 square feet. These much more appropriately sized lots would be able to build one house each. This creates more flexibility when creating new housing. Existing residents would be able to sell parts of their large lots and create housing without affecting their current home. While new home buyers would be able to own their home outright and not have to split their ownership and control over their property with an HOA.
 
 ### Help Get These Initiatives Passed!
 
