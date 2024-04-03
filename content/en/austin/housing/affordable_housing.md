@@ -11,7 +11,7 @@ Most generally affordable housing can be broken down into two major categories:
 1. Capital-A Affordability for people living within a certain household income level as defined by the City of Austin
 2. Market-rate affordability (ie. the present day cost of housing)
 
-Both of these are entirely legitimate concerns and ways to think about housing, so we'll discuss them both and some of the ways in which affordability has been and can continue to be addressed. However it's important to keep in mind that housing affordability is one large piece of a big puzzle that includes cost of transit, utilities, and services.
+Both of these are entirely legitimate concerns and ways to think about housing, so we'll discuss them both and some of the ways in which affordability has been and can continue to be addressed. However it's important to keep in mind that housing affordability is one large piece of a big puzzle that includes cost of transit, utilities, and services. It is also not the end-all be-all of all housing solutions. For example this article doesn't address the needs of permanent supportive housing. These and other concerns are addressed through other policy and efforts.
 
 {{% alert title="Find Affordable Housing" color="primary" %}}
 If you're in need of affordable housing the City of Austin [has a search tool for finding Affordable housing](https://www.atxaffordablehousing.net/). There are also [numerous other resources](https://www.austintexas.gov/page/resources-renters) for landlord issues, evictions, rent and utility assistance, and more.
@@ -29,7 +29,7 @@ Some of the most impactful initiatives in terms of units built have been:
 - Planned Unit Development
 
 {{% alert title="Median Family Income" color="primary" %}}
-The income levels mentioned below are based on [Median Family Income (MFI)](https://www.austintexas.gov/sites/default/files/files/Housing_%26_Planning/MFI%20Chart%20Effective_2022.pdf). MFI is a measure of what the average household earns in the Austin-Round Rock area. The 100% MFI in 2022 was $88,250 for a family of 2 meaning half of all families earned less than this, and half earned more. This could be one family member earning $88,250, or 2 each earning $44,125, or any other split.
+The income levels mentioned below are based on [Median Family Income (MFI)](https://www.austintexas.gov/sites/default/files/files/Housing_%26_Planning/MFI%20Chart%20Effective_2023.pdf). MFI is a measure of what the average household earns in the Austin-Round Rock area. The 100% MFI in 2023 was $97,850 for a family of 2 meaning half of all families earned less than this, and half earned more. This could be one family member earning $97,850, or 2 each earning $48,925, or any other split. There are MFI levels for all household sizes and incomes. Common ones are 80% and 60% MFI which would be $74,800 and $56,100 respectively.
 {{% /alert %}}
 
 ### Affordability Unlocked (AU)
@@ -38,9 +38,9 @@ The income levels mentioned below are based on [Median Family Income (MFI)](http
 
 In practical terms this means that buildings using Affordability unlocked are able to build rentable and ownable housing for those living at or under 80% of the Median Family Income (MFI) of Austin's citizens. Affordability Unlocked is further divided into two types, aptly called Type 1, and Type 2.
 
-Under Type 1 at least half of all units built must be affordable. For rentals they must be kept affordable for a minimum of 40 years for those earning between 20% ($17,650) to 50% MFI ($44,150). For ownable units they must be kept affordable for a minimum of 99 years for those earning incomes averaging up to 80% MFI ($70,600).
+Under Type 1 at least half of all units built must be affordable. For rentals they must be kept affordable for a minimum of 40 years for those earning between 20% ($18,700) to 50% MFI ($46,750). For ownable units they must be kept affordable for a minimum of 99 years for those earning incomes averaging up to 80% MFI ($74,800).
 
-Under Type 2 at least three quarters of all units must be affordable and meet all Type 1 requirements. In addition they must locate the building within a quarter-mile of a transit corridor and designate at least 10% of affordable housing for those earning under 30% MFI ($26,500).
+Under Type 2 at least three quarters of all units must be affordable and meet all Type 1 requirements. In addition they must locate the building within a quarter-mile of a transit corridor and designate at least 10% of affordable housing for those earning under 30% MFI ($28,050).
 
 As of 2023 over 480 units of housing have been built, 2800 are under construction, and a further 2,800 units are in the planning stages. Incredibly 80% of all planned and built housing units under this plan meet the affordability requirements of AU, exceeding the minimums set in place by the program itself.
 
