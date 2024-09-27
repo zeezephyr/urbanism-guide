@@ -7,8 +7,8 @@ description: >
   There are 6 city council seats up for reelection this year. Here's who to support, donate to, and vote for thus far.
 ---
 
-{{% alert title="Find Your District" color="primary" %}}
-You can find your city council district on either [Austin's City Council page](https://www.austintexas.gov/government) or [Austin's District Map](https://maps.austintexas.gov/GIS/CouncilDistrictMap/).
+{{% alert title="AURA's endorsements" %}}
+Check out [AURA's endorsements for city council on Instagram](https://www.instagram.com/p/C_dvPJoyQ3b/). These are the candidates most equipped to create positive change in our city.
 {{% /alert %}}
 
 ## The Importance of Voting
@@ -26,6 +26,10 @@ This is not academic. An anti-housing lawsuit representing just 1.4% of the city
 > -- [Salim Furth & C. Whit Ewen via Mercatus.org](https://www.mercatus.org/research/policy-briefs/mostly-invisible-cost-valid-petitions-texas)
 
 More can be done to overhaul and fix Texas' broken "valid petition" law but until that happens it is absolutely vital that anyone who cares about housing even slightly get out and vote for pro-housing candidates.
+
+{{% alert title="Find Your District" color="primary" %}}
+You can find your city council district on either [Austin's City Council page](https://www.austintexas.gov/government) or [Austin's District Map](https://maps.austintexas.gov/GIS/CouncilDistrictMap/).
+{{% /alert %}}
 
 ## Mayor
 
