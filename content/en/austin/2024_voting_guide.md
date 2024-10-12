@@ -4,11 +4,11 @@ icon: "icon twa-ballot-box-with-ballot"
 weight: 1
 url: austin/voting_guide/2024
 description: >
-  There are 6 city council seats up for reelection this year. Here's who to support, donate to, and vote for thus far.
+  There are 6 city council seats up for reelection this year. Here's who to support, donate to, and vote for.
 ---
 
 {{% alert title="AURA's endorsements" %}}
-Check out [AURA's endorsements for city council on Instagram](https://www.instagram.com/p/C_dvPJoyQ3b/). These are the candidates most equipped to create positive change in our city.
+Check out [AURA's voting guide for 2024](https://aura-atx.org/auras-city-council-voter-guide-2024/). These are the candidates most equipped to create positive change in our city.
 {{% /alert %}}
 
 ## The Importance of Voting
