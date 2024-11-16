@@ -7,8 +7,12 @@ description: >
   There are 6 city council seats up for reelection this year. Here's who to support, donate to, and vote for.
 ---
 
-{{% alert title="AURA's endorsements" %}}
-Check out [AURA's voting guide for 2024](https://aura-atx.org/auras-city-council-voter-guide-2024/). These are the candidates most equipped to create positive change in our city.
+{{% alert title="District 7 Runoff Election" %}}
+Candidate [Mike Siegel](https://www.siegelforaustin.org/home-2-1) will be in a runoff election on Saturday, December 14th for District 7. Runoffs have historically low turnout. If you're in District 7 voting in this runoff is the best way to have a huge impact on Austin's future.
+
+You can [check which district you live in here](https://maps.austintexas.gov/GIS/CouncilDistrictMap/).
+
+You can also volunteer to help AURA get out the vote. [Join their Discord](https://discord.gg/eQqxMV5KMq) for more information.
 {{% /alert %}}
 
 ## The Importance of Voting
