@@ -8,7 +8,7 @@ description: >
 ---
 
 {{% alert title="District 7 Runoff Election" %}}
-Candidate [Mike Siegel](https://www.siegelforaustin.org/home-2-1) will be in a runoff election on Saturday, December 14th for District 7. Runoffs have historically low turnout. If you're in District 7 voting in this runoff is the best way to have a huge impact on Austin's future.
+Candidate [Mike Siegel](https://www.siegelforaustin.org/home-2-1) will be in a [runoff election](https://aura-atx.org/d7runoff/) on Saturday, December 14th for District 7. Runoffs have historically low turnout. If you're in District 7 voting in this runoff is the best way to have a huge impact on Austin's future.
 
 You can [check which district you live in here](https://maps.austintexas.gov/GIS/CouncilDistrictMap/).
 
