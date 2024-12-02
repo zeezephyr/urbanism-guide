@@ -2,10 +2,10 @@
 title: "Highways"
 icon: "icon twa-car"
 description: >
-    Highways are deadly, ugly, and environmentally disastrous. They are one of several pieces of fossil fuel infrastructure that must be extensively reformed and in many cases removed to ensure our future.
+    Highways are deadly, ugly, and environmentally disastrous. They are one of several pieces of fossil fuel infrastructure in need of reform.
 ---
 
-TxDOT, CAMPO, and the TTC are the three organizations and political bodies that are responsible for our mess of deadly highways. TTC is a state-wide body of 5 political appointees that plans and authorizes 10 year transportation plans (aka UTPs) at a state level. These plans then get passed to TxDOT who must work with CAMPO to identify projects, funding, and finally approve plans that achieve the goals of the UTP. CAMPO approves federal funding for TxDOT highway projects. Collectively they represent a destructive, unrepresentative, and undemocratic force of will of the oil and gas industry to carve up our cities and environment for profit.
+TxDOT, CAMPO, and the TTC are the three organizations and political bodies that are responsible for our highways. TTC is a state-wide body of 5 political appointees that plans and authorizes 10 year transportation plans (aka UTPs) at a state level. These plans then get passed to TxDOT who must work with CAMPO to identify projects, funding, and finally approve plans that achieve the goals of the UTP. CAMPO approves federal funding for TxDOT highway projects.
 
 ## Preface: The Cost of Highways and Roads
 
@@ -43,17 +43,17 @@ Austin's 2022 population of 974,447 (2022; US Census Estimate) makes up 39% of t
 
 Further reducing Austin's influence and proper representation within CAMPO is the Transportation Policy Board Executive Committee. This 9 member board is the body that makes recommendations to the full TPB board about plans, projects, and issues. Not a single member of this committee is from Austin.
 
-There doesn't yet exist a movement in Austin to fix CAMPO so that it is fairly representative or so that Austin can have its own MPO. However similar efforts have been taken up in neighboring cities like the [Fair For Houston initiative](https://www.fairforhouston.com/) which passed with 65% voter approval in November 2023. A similar initiative could be done in Austin.
+There doesn't yet exist a movement in Austin to fix CAMPO so that it is fairly representative or so that Austin can have its own MPO. However similar efforts have been taken up in neighboring cities like the [Fair For Houston initiative](https://www.fairforhouston.com/) which passed with 65% voter approval in November 2023.
 
 In addition to CAMPO's lack of proper representation for Austin it also actively excludes members of the public by:
 
 - Locating their meetings at the Junior League on Texas 360 Loop which excludes anyone who commutes without a car from attending. Accessibility to this meeting will get even worse over the next 5 years due to two major highway projects on Loop 360 and Spicewood Springs Road.
-- Holding all meetings at 2pm on weekdays without an option to dial-in. Effectively excluding anyone who works a daytime job for a living.
+- Holding all meetings at 2pm on weekdays. Effectively excluding anyone who works a daytime job from participating.
 - Requiring all speakers to attend in person; no option to dial in to comment.
 
 ## Texas Department of Transportation (TxDOT)
 
-Once plans are finalized the Texas Department of Transportation is the state's department that creates roads for cars and trucks on ROWs that they own or have access to use. In principal a Department Of Transportation _should_ create transportation options for all modes of transportation. However in practice and in law they spend almost all of their funding on road expansions.
+Once plans are finalized the Texas Department of Transportation is the state's department that creates roads for cars and trucks on ROWs that they own or have access to use. In principal a Department Of Transportation _should_ create transportation options for all modes of transportation. However in practice and in law TxDOT spends almost all of its funding on road expansions.
 
 TxDOT road expansions include highways as well as many regular streets within cities and towns that they also own. This means that in some cases urbanist efforts to improve certain roads are frustrated by the state's desire to harm its people over petty grievances. Due to this fatal crashes on state owned roadways continue to rise, while on non-state roads fatalities have remained flat.
 
@@ -66,7 +66,8 @@ TxDOT road expansions include highways as well as many regular streets within ci
 
 - [Proposition 7](https://statutes.capitol.texas.gov/Docs/CN/htm/CN.8/CN.8.7-c.htm): Directs portions of state sales and use taxes, as well as motor vehicle sale and rental taxes to: "(1) construct, maintain, or acquire rights of way for public roadways other than toll roads; or (2) repay the principal of and interest on general obligation bonds issued as authorized by Section 49-p, Article III, of this constitution."
 
-    In combination these two propositions have lead to tens of billions of state tax dollars being directed towards maintaining and expanding highways and all the negatives that car dependent infrastructure brings to us and our cities.
+In combination these two propositions have lead to tens of billions of state tax dollars being directed towards maintaining and expanding highways.
 
 - [Congestion Mitigation and Air Quality (CMAQ) Improvement Program](https://www.fhwa.dot.gov/bipartisan-infrastructure-law/cmaq.cfm): This is a federal program which says when a state fails to meet their obligations under the Clean Air Act they can be awarded funding to improve their compliance. However this bill also allows up to 50% of funding to be redirected to other highway and transportation activities. The end result being that states are able to use funding intended for improving our air quality to instead construct additional highways and roads.
+
     > "A State may transfer up to 50% of CMAQ funds made available each fiscal year to any other apportionment of the State, including the National Highway Performance Program, Surface Transportation Block Grant Program, Highway Safety Improvement Program, National Highway Freight Program [..]"
